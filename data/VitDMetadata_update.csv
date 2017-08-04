@@ -1,0 +1,568 @@
+ID,GIERACE,SITE,TUDRAMT,HWWGT,V4AGE1,HWHGT,PASCORE,HWBMI,TURSMOKE,DTVITD,M1ADEPR,M1VITMND,M1ANTIB,M1PROBI,OHV1D3,OHV24D3,OHVD3,OHVD2,OHV1D2,OHV1D2CT,OHVD2CT,OHVDTOT,OHV1DTOT,OHSEAS,VDstatus
+BI0023,1:WHITE,Birmingham,1: Less than one drink per week,83.1,83,169.6,91,28.89011881,M:Not Applicable,250.9,0: No,0: No,0: No,0: No,39.3,1.77,25.8,0,0,1: Yes,1: Yes,25.8,39.3,3:SUMMER,sufficiency
+BI0056,1:WHITE,Birmingham,0:None drinker,76.2,81,163.4,199.1785714,28.53979616,1:PAST,72.97,0: No,1: Yes,1: Yes,0: No,61.9,3.91,39.2,0,0,1: Yes,1: Yes,39.2,61.9,2:SPRING,sufficiency
+BI0131,1:WHITE,Birmingham,0:None drinker,78.5,83,177.15,161.7142857,25.01424179,1:PAST,312.15,0: No,1: Yes,0: No,0: No,52.1,1.49,23.1,0,0,1: Yes,1: Yes,23.1,52.1,2:SPRING,sufficiency
+BI0153,1:WHITE,Birmingham,4: 6-13 drinks per week,95.1,79,175.5,88.21428571,30.87637276,1:PAST,323.52,0: No,1: Yes,0: No,0: No,43.1,2.14,27.3,0,0,1: Yes,1: Yes,27.3,43.1,2:SPRING,sufficiency
+BI0215,1:WHITE,Birmingham,3: 3-5 drinks per week,93,81,166.4,256.8214286,33.58739368,1:PAST,31.95,0: No,0: No,0: No,0: No,50.2,3.62,33,0,0,1: Yes,1: Yes,33,50.2,4:FALL,sufficiency
+BI0353,1:WHITE,Birmingham,0:None drinker,83.6,80,177.9,179.5714286,26.41522907,1:PAST,156.06,0: No,0: No,1: Yes,0: No,45.5,1.79,19.5,0,0,1: Yes,1: Yes,19.5,45.5,2:SPRING,deficiency
+BI0371,2:AFRICAN AMERICAN,Birmingham,3: 3-5 drinks per week,102.6,79,190.1,144.5714286,28.39115934,0:NO,58.31,0: No,0: No,0: No,0: No,60,1.82,22.3,0,0,1: Yes,1: Yes,22.3,60,2:SPRING,sufficiency
+BI0372,1:WHITE,Birmingham,1: Less than one drink per week,85.3,80,175.9,91.67857143,27.56876759,0:NO,78.06,1: Yes,1: Yes,0: No,0: No,53.6,3.37,37.2,0.7,0,1: Yes,0: No,37.9,53.6,2:SPRING,sufficiency
+BI0380,1:WHITE,Birmingham,0:None drinker,110.6,85,192.35,65.60714286,29.8930856,1:PAST,340.56,0: No,1: Yes,0: No,0: No,50.2,2.55,45.7,0,0,1: Yes,1: Yes,45.7,50.2,2:SPRING,sufficiency
+BI0389,1:WHITE,Birmingham,0:None drinker,72.2,85,177.7,209.7142857,22.86453334,0:NO,218.06,1: Yes,0: No,0: No,0: No,49.7,1.93,26.7,0,0,1: Yes,1: Yes,26.7,49.7,2:SPRING,sufficiency
+BI0395,5:OTHER,Birmingham,0:None drinker,112.6,79,174.4,8.571428571,37.02076845,0:NO,148.04,0: No,1: Yes,0: No,0: No,46.4,2.09,22.9,0,0,1: Yes,1: Yes,22.9,46.4,2:SPRING,sufficiency
+BI0397,1:WHITE,Birmingham,3: 3-5 drinks per week,66.1,80,166.1,135.1428571,23.9586418,1:PAST,220.37,0: No,1: Yes,0: No,0: No,40.3,2.37,23.1,8.4,0,1: Yes,0: No,31.5,40.3,2:SPRING,sufficiency
+BI0404,1:WHITE,Birmingham,1: Less than one drink per week,94.4,84,169.35,65,32.91558608,1:PAST,47.06,1: Yes,0: No,0: No,0: No,51.7,1.86,20.1,1.7,0,1: Yes,0: No,21.8,51.7,2:SPRING,sufficiency
+BI0409,1:WHITE,Birmingham,3: 3-5 drinks per week,73.4,86,184.5,139.2142857,21.56270885,1:PAST,54.08,0: No,1: Yes,0: No,0: No,48.4,3.09,36.2,0,0,1: Yes,1: Yes,36.2,48.4,2:SPRING,sufficiency
+BI0410,1:WHITE,Birmingham,2: 1-2drinks per week,82.4,79,178.9,32.5,25.74580826,1:PAST,354.56,0: No,1: Yes,0: No,0: No,58.6,4.47,42.6,0,0,1: Yes,1: Yes,42.6,58.6,2:SPRING,sufficiency
+BI0411,2:AFRICAN AMERICAN,Birmingham,4: 6-13 drinks per week,61.2,79,153.85,261.6428571,25.8557072,0:NO,43.92,0: No,0: No,0: No,0: No,59.8,1,10.2,0,0,1: Yes,1: Yes,10.2,59.8,2:SPRING,deficiency
+BI0415,1:WHITE,Birmingham,1: Less than one drink per week,119.4,86,184.75,106.4285714,34.98125873,1:PAST,161.06,0: No,1: Yes,1: Yes,0: No,53.5,2.52,29.4,0,0,1: Yes,1: Yes,29.4,53.5,2:SPRING,sufficiency
+BI0425,5:OTHER,Birmingham,0:None drinker,89.1,81,170.3,222.4285714,30.72192383,1:PAST,136.11,0: No,1: Yes,0: No,0: No,38.4,1.32,33.9,0,0,1: Yes,1: Yes,33.9,38.4,2:SPRING,sufficiency
+BI0426,5:OTHER,Birmingham,0:None drinker,85.1,81,179.35,150.9285714,26.45615937,1:PAST,292.09,0: No,1: Yes,0: No,0: No,44.7,5.68,48.3,0,0,1: Yes,1: Yes,48.3,44.7,2:SPRING,sufficiency
+BI0427,1:WHITE,Birmingham,0:None drinker,86.6,88,178.8,167.4285714,27.08836939,0:NO,74.57,0: No,1: Yes,0: No,0: No,43,3.12,34.4,0,0,1: Yes,1: Yes,34.4,43,2:SPRING,sufficiency
+BI0428,1:WHITE,Birmingham,2: 1-2drinks per week,93.8,82,179.55,149.1428571,29.09591501,M:Not Applicable,445.61,1: Yes,0: No,0: No,0: No,62.5,2.77,22.6,0,0,1: Yes,1: Yes,22.6,62.5,2:SPRING,sufficiency
+BI0430,1:WHITE,Birmingham,1: Less than one drink per week,70.9,79,175.4,171.5714286,23.04554893,1:PAST,259.85,0: No,1: Yes,0: No,0: No,90.9,3.21,41.1,0.7,0,1: Yes,0: No,41.8,90.9,2:SPRING,sufficiency
+BI0441,1:WHITE,Birmingham,0:None drinker,73,80,168.85,93.46428571,25.60476122,M:Not Applicable,74.47,0: No,1: Yes,0: No,0: No,36.5,1.76,17.4,5.5,0,1: Yes,0: No,22.9,36.5,2:SPRING,deficiency
+BI0444,1:WHITE,Birmingham,0:None drinker,78.6,79,178.4,235.75,24.69635424,1:PAST,102.11,0: No,1: Yes,0: No,0: No,82.9,6.09,46.7,0,0,1: Yes,1: Yes,46.7,82.9,2:SPRING,sufficiency
+BI0445,1:WHITE,Birmingham,3: 3-5 drinks per week,73.9,80,178.8,96.78571429,23.11582561,1:PAST,89.71,0: No,0: No,0: No,0: No,17.1,3.5,37.7,0,0,1: Yes,1: Yes,37.7,17.1,4:FALL,sufficiency
+BI0448,1:WHITE,Birmingham,0:None drinker,97.3,80,178.25,328.5,30.62342511,M:Not Applicable,36.22,0: No,1: Yes,0: No,0: No,53.2,1.49,28.7,0,0,1: Yes,1: Yes,28.7,53.2,2:SPRING,sufficiency
+BI0450,2:AFRICAN AMERICAN,Birmingham,0:None drinker,87.8,79,181.1,218.7857143,26.77056981,0:NO,82.6,0: No,0: No,1: Yes,0: No,75.2,0.96,14.2,0,0,1: Yes,1: Yes,14.2,75.2,2:SPRING,deficiency
+BI0452,1:WHITE,Birmingham,4: 6-13 drinks per week,88.4,79,169.3,147.25,30.84170287,0:NO,69.24,0: No,1: Yes,0: No,0: No,68.3,4.68,49.1,0,0,1: Yes,1: Yes,49.1,68.3,2:SPRING,sufficiency
+BI0464,1:WHITE,Birmingham,1: Less than one drink per week,93.4,83,170.8,90.60714286,32.0163002,1:PAST,81.76,0: No,1: Yes,0: No,0: No,68.1,2.99,41.2,0,0,1: Yes,1: Yes,41.2,68.1,2:SPRING,sufficiency
+BI0466,1:WHITE,Birmingham,0:None drinker,99.3,83,180,259.9285714,30.64814815,1:PAST,219.81,0: No,0: No,0: No,0: No,43.8,3.34,31.4,0,0,1: Yes,1: Yes,31.4,43.8,4:FALL,sufficiency
+BI0467,1:WHITE,Birmingham,4: 6-13 drinks per week,77.7,80,175.8,141,25.14104222,2:CURRENT,128.87,0: No,1: Yes,0: No,0: No,47.2,1.48,17.7,47.1,37.79998779,0: No,0: No,64.8,85,2:SPRING,deficiency
+BI0478,1:WHITE,Birmingham,1: Less than one drink per week,93.5,85,174.8,44.57142857,30.60051631,M:Not Applicable,69.57,0: No,0: No,0: No,0: No,54.1,2.2,24.6,0,0,1: Yes,1: Yes,24.6,54.1,2:SPRING,sufficiency
+BI0508,1:WHITE,Birmingham,1: Less than one drink per week,78.5,86,164.7,125.75,28.93892927,0:NO,126.41,0: No,1: Yes,0: No,0: No,83.6,3.81,38.8,0,0,1: Yes,1: Yes,38.8,83.6,4:FALL,sufficiency
+BI0519,1:WHITE,Birmingham,0:None drinker,125.7,84,179.7,15,38.92594131,1:PAST,91.97,0: No,1: Yes,0: No,0: No,27.2,1.76,29.6,0.7,0,1: Yes,0: No,30.3,27.2,4:FALL,sufficiency
+BI0532,1:WHITE,Birmingham,0:None drinker,88.2,86,178.85,124.2142857,27.57342382,0:NO,181.06,0: No,1: Yes,0: No,0: No,65.7,2.41,N:Cannot Evaluate,0,0,1: Yes,1: Yes,,65.7,3:SUMMER,
+BI0539,1:WHITE,Birmingham,0:None drinker,92.2,80,177.85,43,29.1489679,1:PAST,98.03,0: No,1: Yes,0: No,0: No,21.9,1.48,21.4,0,0,1: Yes,1: Yes,21.4,21.9,2:SPRING,sufficiency
+BI0552,2:AFRICAN AMERICAN,Birmingham,0:None drinker,52,93,163.15,141,19.53570945,1:PAST,39.72,0: No,0: No,0: No,0: No,58.3,1.32,21.1,0,0,1: Yes,1: Yes,21.1,58.3,2:SPRING,sufficiency
+BI0580,1:WHITE,Birmingham,0:None drinker,72.1,87,176.05,26.42857143,23.2628653,M:Not Applicable,982.83,0: No,0: No,0: No,0: No,59.1,6.53,42.7,0,0,1: Yes,1: Yes,42.7,59.1,4:FALL,sufficiency
+BI0594,1:WHITE,Birmingham,1: Less than one drink per week,78.1,87,182.7,196.7142857,23.39774153,1:PAST,127.6,0: No,1: Yes,0: No,0: No,44.3,1.3,N:Cannot Evaluate,0,0,1: Yes,1: Yes,,44.3,3:SUMMER,
+BI0613,1:WHITE,Birmingham,0:None drinker,78.4,87,190,36,21.71745152,1:PAST,319.52,0: No,1: Yes,0: No,0: No,64.8,4.73,N:Cannot Evaluate,0,0,1: Yes,1: Yes,,64.8,3:SUMMER,
+BI0682,1:WHITE,Birmingham,0:None drinker,93.7,88,180.1,56.28571429,28.88764679,1:PAST,165.75,1: Yes,1: Yes,0: No,0: No,56.7,4.66,37.9,0,0,1: Yes,1: Yes,37.9,56.7,4:FALL,sufficiency
+BI0686,1:WHITE,Birmingham,1: Less than one drink per week,66.1,81,163.95,201,24.59113746,M:Not Applicable,482.05,0: No,1: Yes,0: No,0: No,42,3.63,69.9,0,0,1: Yes,1: Yes,69.9,42,4:FALL,sufficiency
+BI0700,2:AFRICAN AMERICAN,Birmingham,0:None drinker,76.3,81,172.55,141.4642857,25.62681364,1:PAST,61.5,0: No,0: No,0: No,0: No,42,1.34,13.4,0,0,1: Yes,1: Yes,13.4,42,3:SUMMER,deficiency
+BI0704,1:WHITE,Birmingham,1: Less than one drink per week,80.9,79,170.3,129.5714286,27.89454139,1:PAST,70.59,0: No,1: Yes,0: No,0: No,55.1,3.95,N:Cannot Evaluate,0,0,1: Yes,1: Yes,,55.1,3:SUMMER,
+BI0711,1:WHITE,Birmingham,0:None drinker,78.1,81,164.25,144.5,28.94944735,1:PAST,199.14,0: No,1: Yes,0: No,0: No,41.3,3.18,N:Cannot Evaluate,0,0,1: Yes,1: Yes,,41.3,3:SUMMER,
+BI0717,1:WHITE,Birmingham,4: 6-13 drinks per week,68.3,85,173.1,107.0714286,22.79431617,1:PAST,161.3,0: No,1: Yes,0: No,0: No,105.7,6.59,44.7,0,0,1: Yes,1: Yes,44.7,105.7,3:SUMMER,sufficiency
+BI0730,1:WHITE,Birmingham,3: 3-5 drinks per week,74.2,79,169.6,117.4285714,25.79599057,0:NO,180.64,0: No,0: No,0: No,0: No,56.4,3.69,N:Cannot Evaluate,0,0,1: Yes,1: Yes,,56.4,3:SUMMER,
+BI0739,1:WHITE,Birmingham,0:None drinker,76.1,79,177.1,149.5714286,24.26316962,1:PAST,126.91,1: Yes,1: Yes,0: No,0: No,83.5,5.97,N:Cannot Evaluate,0,0,1: Yes,1: Yes,,83.5,3:SUMMER,
+BI0749,1:WHITE,Birmingham,1: Less than one drink per week,82.2,83,176.95,41.07142857,26.25250099,1:PAST,202.71,0: No,0: No,0: No,0: No,36.4,1.17,N:Cannot Evaluate,0,0,1: Yes,1: Yes,,36.4,3:SUMMER,
+BI0751,1:WHITE,Birmingham,0:None drinker,74.2,86,177.25,108,23.6173637,0:NO,377.11,0: No,1: Yes,0: No,0: No,91.8,6.17,N:Cannot Evaluate,0,0,1: Yes,1: Yes,,91.8,3:SUMMER,
+BI0757,1:WHITE,Birmingham,3: 3-5 drinks per week,84.2,84,174.5,226.7142857,27.65166132,1:PAST,382.61,0: No,0: No,0: No,0: No,51.7,2.72,27.3,0,0,1: Yes,1: Yes,27.3,51.7,3:SUMMER,sufficiency
+BI0764,1:WHITE,Birmingham,0:None drinker,78.1,90,174.25,5,25.72204303,M:Not Applicable,120.11,1: Yes,1: Yes,0: No,0: No,45.7,2.79,N:Cannot Evaluate,0,0,1: Yes,1: Yes,,45.7,3:SUMMER,
+BI0778,1:WHITE,Birmingham,1: Less than one drink per week,76.8,89,165.65,19.39285714,27.98841724,1:PAST,183.83,0: No,1: Yes,0: No,0: No,71.8,3.16,32.1,0,0,1: Yes,1: Yes,32.1,71.8,3:SUMMER,sufficiency
+BI0786,1:WHITE,Birmingham,4: 6-13 drinks per week,91,79,176.6,245.6071429,29.17830058,1:PAST,64.23,0: No,1: Yes,0: No,0: No,72.9,5.89,N:Cannot Evaluate,0,0,1: Yes,1: Yes,,72.9,3:SUMMER,
+BI0789,1:WHITE,Birmingham,0:None drinker,66.5,86,167.75,66,23.63178831,1:PAST,223.07,0: No,0: No,0: No,0: No,57,2.21,28.2,0,0,1: Yes,1: Yes,28.2,57,3:SUMMER,sufficiency
+BI0798,1:WHITE,Birmingham,2: 1-2drinks per week,101.6,80,175.65,62.14285714,32.93042985,1:PAST,77.67,0: No,1: Yes,0: No,0: No,53.3,4.31,30.3,0.7,0,1: Yes,0: No,31,53.3,3:SUMMER,sufficiency
+BI0801,1:WHITE,Birmingham,0:None drinker,74.5,89,174.05,111.5,24.59281357,1:PAST,136.77,0: No,1: Yes,0: No,0: No,37.8,1.62,31,20.9,0,1: Yes,0: No,51.9,37.8,3:SUMMER,sufficiency
+BI0802,1:WHITE,Birmingham,0:None drinker,75,79,169,217.4285714,26.25958475,1:PAST,163.11,0: No,1: Yes,0: No,0: No,46,5.01,46,0,0,1: Yes,1: Yes,46,46,3:SUMMER,sufficiency
+BI0804,1:WHITE,Birmingham,4: 6-13 drinks per week,67.3,84,173.25,180.1428571,22.42170208,0:NO,93.8,0: No,0: No,0: No,0: No,68.9,1.88,22.2,0,0,1: Yes,1: Yes,22.2,68.9,3:SUMMER,sufficiency
+BI0816,1:WHITE,Birmingham,0:None drinker,87.8,82,166.5,69.46428571,31.67131095,M:Not Applicable,179.25,0: No,1: Yes,0: No,0: No,50.2,1.93,29.1,0,0,1: Yes,1: Yes,29.1,50.2,3:SUMMER,sufficiency
+BI0821,1:WHITE,Birmingham,4: 6-13 drinks per week,75.7,86,175.85,200.2857143,24.47998426,0:NO,254.5,0: No,1: Yes,0: No,0: No,99.9,9.63,56.1,1.2,0,1: Yes,0: No,57.3,99.9,3:SUMMER,sufficiency
+BI0828,1:WHITE,Birmingham,2: 1-2drinks per week,69.7,82,165,137.7142857,25.60146924,M:Not Applicable,208.05,0: No,1: Yes,1: Yes,0: No,57.3,2.67,27.1,0,0,1: Yes,1: Yes,27.1,57.3,3:SUMMER,sufficiency
+BI0840,2:AFRICAN AMERICAN,Birmingham,0:None drinker,78,81,162.95,52.14285714,29.37554096,0:NO,57.9,0: No,1: Yes,0: No,0: No,48.5,1.69,24.2,0,0,1: Yes,1: Yes,24.2,48.5,3:SUMMER,sufficiency
+BI0855,1:WHITE,Birmingham,2: 1-2drinks per week,76.3,80,181.65,83.96428571,23.12350871,0:NO,86.02,1: Yes,0: No,0: No,0: No,41.4,10.16,104,0,0,1: Yes,1: Yes,104,41.4,3:SUMMER,sufficiency
+BI0887,1:WHITE,Birmingham,0:None drinker,95,89,187.7,32.5,26.96466692,1:PAST,83.47,0: No,0: No,0: No,0: No,31.3,1.87,24.9,0.9,0,1: Yes,0: No,25.8,31.3,3:SUMMER,sufficiency
+BI0889,1:WHITE,Birmingham,0:None drinker,84.5,79,177.8,103.25,26.7296453,1:PAST,103.41,0: No,1: Yes,0: No,1: Yes,82.5,3.86,43.9,0,0,1: Yes,1: Yes,43.9,82.5,4:FALL,sufficiency
+BI0898,1:WHITE,Birmingham,0:None drinker,63.8,94,173.05,118.8571429,21.30480048,0:NO,113.58,0: No,1: Yes,0: No,0: No,86.1,7.42,51.5,0,0,1: Yes,1: Yes,51.5,86.1,4:FALL,sufficiency
+BI0904,1:WHITE,Birmingham,0:None drinker,87.3,82,182,197.1428571,26.35551262,1:PAST,136.19,0: No,1: Yes,0: No,0: No,66.6,2.27,23.9,0,0,1: Yes,1: Yes,23.9,66.6,3:SUMMER,sufficiency
+BI0910,1:WHITE,Birmingham,0:None drinker,83,83,171.15,143.1428571,28.33506971,0:NO,148.95,0: No,1: Yes,0: No,0: No,99,2.66,24.5,0,0,1: Yes,1: Yes,24.5,99,3:SUMMER,sufficiency
+BI0924,1:WHITE,Birmingham,0:None drinker,103.1,84,176.5,103.8571429,33.0955228,1:PAST,175.72,0: No,1: Yes,0: No,0: No,57.6,4.43,41.3,0,0,1: Yes,1: Yes,41.3,57.6,4:FALL,sufficiency
+BI0929,1:WHITE,Birmingham,0:None drinker,75.7,91,165.25,119.0357143,27.72125853,M:Not Applicable,266.16,0: No,1: Yes,0: No,0: No,40.6,2.08,21.9,0,0,1: Yes,1: Yes,21.9,40.6,4:FALL,sufficiency
+BI0931,1:WHITE,Birmingham,0:None drinker,81.4,83,173.4,286.7142857,27.07236636,1:PAST,68.7,0: No,1: Yes,0: No,0: No,80.5,2.22,25.1,0,0,1: Yes,1: Yes,25.1,80.5,4:FALL,sufficiency
+BI0939,1:WHITE,Birmingham,0:None drinker,67.5,95,171.1,245.2857143,23.05705066,1:PAST,158.92,0: No,1: Yes,0: No,0: No,54.2,5.36,50,1.2,0,1: Yes,0: No,51.2,54.2,4:FALL,sufficiency
+BI0940,1:WHITE,Birmingham,4: 6-13 drinks per week,84.6,78,174.05,127.1428571,27.92687286,0:NO,399.33,0: No,1: Yes,0: No,0: No,60.3,3.91,29.9,0,0,1: Yes,1: Yes,29.9,60.3,4:FALL,sufficiency
+BI0948,1:WHITE,Birmingham,0:None drinker,65.4,91,165.9,196.7142857,23.76210859,0:NO,113.56,1: Yes,0: No,0: No,0: No,44.8,1.56,21.9,0,0,1: Yes,1: Yes,21.9,44.8,4:FALL,sufficiency
+MN1501,1:WHITE,Minneapolis,3: 3-5 drinks per week,73.2,91,164.2,176.3928571,27.14968377,M:Not Applicable,,0: No,1: Yes,0: No,0: No,39.8,2.78,34.5,0,0,1: Yes,1: Yes,34.5,39.8,4:FALL,sufficiency
+MN1521,1:WHITE,Minneapolis,5: 14 or more drinks per week,114.3,80,184.05,61,33.74229258,1:PAST,62.55,0: No,1: Yes,0: No,0: No,57.6,2.1,24,0,0,1: Yes,1: Yes,24,57.6,2:SPRING,sufficiency
+MN1524,1:WHITE,Minneapolis,4: 6-13 drinks per week,105.2,82,182,57.5,31.75944934,1:PAST,90.83,0: No,1: Yes,0: No,0: No,51.4,4.22,45.2,0,0,1: Yes,1: Yes,45.2,51.4,2:SPRING,sufficiency
+MN1550,1:WHITE,Minneapolis,0:None drinker,103,80,180.25,281.7142857,31.70200119,0:NO,50.08,0: No,1: Yes,0: No,0: No,52.3,2.47,20.2,0,0,1: Yes,1: Yes,20.2,52.3,3:SUMMER,sufficiency
+MN1573,1:WHITE,Minneapolis,3: 3-5 drinks per week,83.4,88,174.65,25,27.34191134,M:Not Applicable,66.81,0: No,0: No,1: Yes,0: No,54.1,0.98,13.9,0,0,1: Yes,1: Yes,13.9,54.1,4:FALL,deficiency
+MN1590,1:WHITE,Minneapolis,3: 3-5 drinks per week,91.6,88,167.9,35,32.49331954,1:PAST,56.58,0: No,1: Yes,0: No,0: No,29,2.38,35.4,0,0,1: Yes,1: Yes,35.4,29,2:SPRING,sufficiency
+MN1607,1:WHITE,Minneapolis,4: 6-13 drinks per week,57.7,80,170.5,165.4285714,19.84847052,0:NO,229.39,0: No,1: Yes,1: Yes,0: No,71.1,4.79,40.7,1.6,0,1: Yes,0: No,42.3,71.1,2:SPRING,sufficiency
+MN1617,1:WHITE,Minneapolis,0:None drinker,111,81,176.25,101.6428571,35.73260902,0:NO,54.95,0: No,1: Yes,0: No,0: No,51,3.23,28.8,0.8,0,1: Yes,0: No,29.6,51,2:SPRING,sufficiency
+MN1618,1:WHITE,Minneapolis,3: 3-5 drinks per week,90.8,81,175.95,72.14285714,29.32967875,1:PAST,206.68,1: Yes,1: Yes,0: No,0: No,47.1,3.27,32.5,0,0,1: Yes,1: Yes,32.5,47.1,3:SUMMER,sufficiency
+MN1619,1:WHITE,Minneapolis,4: 6-13 drinks per week,84,87,176.15,151.3214286,27.07160415,1:PAST,,0: No,1: Yes,0: No,0: No,71.3,4.1,30,1.3,0,1: Yes,0: No,31.3,71.3,4:FALL,sufficiency
+MN1627,1:WHITE,Minneapolis,1: Less than one drink per week,56.9,87,160.05,164.5,22.21267741,0:NO,115.2,0: No,0: No,0: No,0: No,49.8,1.78,25.7,0,0,1: Yes,1: Yes,25.7,49.8,2:SPRING,sufficiency
+MN1646,1:WHITE,Minneapolis,4: 6-13 drinks per week,85.4,85,173.35,151.7142857,28.41909074,0:NO,943.63,0: No,0: No,0: No,0: No,60.3,3.22,21.8,0,0,1: Yes,1: Yes,21.8,60.3,2:SPRING,sufficiency
+MN1690,1:WHITE,Minneapolis,0:None drinker,98.5,83,178.65,116.75,30.86243508,1:PAST,390.04,0: No,1: Yes,0: No,0: No,88.7,5.93,47.5,0,0,1: Yes,1: Yes,47.5,88.7,3:SUMMER,sufficiency
+MN1696,1:WHITE,Minneapolis,0:None drinker,102.9,81,177.55,154.2142857,32.64179414,1:PAST,193.75,0: No,0: No,0: No,0: No,39.2,0.96,14.2,0,0,1: Yes,1: Yes,14.2,39.2,4:FALL,deficiency
+MN1760,1:WHITE,Minneapolis,0:None drinker,59.9,83,158.25,207.3571429,23.91879987,2:CURRENT,80.73,1: Yes,1: Yes,0: No,0: No,30.5,3.92,25.6,0,0,1: Yes,1: Yes,25.6,30.5,2:SPRING,sufficiency
+MN1789,1:WHITE,Minneapolis,2: 1-2drinks per week,66.6,88,173.75,159.4285714,22.06096993,0:NO,182.47,0: No,0: No,0: No,0: No,56.6,4.77,34.2,0,0,1: Yes,1: Yes,34.2,56.6,4:FALL,sufficiency
+MN1807,2:AFRICAN AMERICAN,Minneapolis,2: 1-2drinks per week,70.7,81,164.9,134.2142857,26.00028464,0:NO,133.7,0: No,1: Yes,0: No,1: Yes,111.5,6.83,37.3,0,0,1: Yes,1: Yes,37.3,111.5,3:SUMMER,sufficiency
+MN1809,1:WHITE,Minneapolis,1: Less than one drink per week,77.5,82,169.75,74,26.8956557,1:PAST,97.76,0: No,1: Yes,0: No,0: No,46.3,2.54,39.7,0,0,1: Yes,1: Yes,39.7,46.3,4:FALL,sufficiency
+MN1817,1:WHITE,Minneapolis,1: Less than one drink per week,88.2,84,172,116.25,29.81341266,1:PAST,314.44,0: No,1: Yes,0: No,0: No,55.5,3.82,29,0,0,1: Yes,1: Yes,29,55.5,3:SUMMER,sufficiency
+MN1818,1:WHITE,Minneapolis,5: 14 or more drinks per week,84.9,86,172.3,105.7142857,28.59809703,M:Not Applicable,291.1,0: No,1: Yes,0: No,0: No,78.9,3.1,38,0,0,1: Yes,1: Yes,38,78.9,3:SUMMER,sufficiency
+MN1821,1:WHITE,Minneapolis,2: 1-2drinks per week,66.1,86,176.2,84.71428571,21.29068582,1:PAST,448.21,0: No,1: Yes,0: No,0: No,66.2,3.28,26.7,0,0,1: Yes,1: Yes,26.7,66.2,4:FALL,sufficiency
+MN1831,1:WHITE,Minneapolis,0:None drinker,76.1,86,165.45,101,27.80040442,0:NO,185.64,0: No,0: No,0: No,0: No,32.7,1.38,17,0,0,1: Yes,1: Yes,17,32.7,2:SPRING,deficiency
+MN1835,1:WHITE,Minneapolis,0:None drinker,92.5,88,179.25,90.71428571,28.78878949,0:NO,227.5,0: No,1: Yes,0: No,0: No,56.8,2.87,44.5,0,0,1: Yes,1: Yes,44.5,56.8,3:SUMMER,sufficiency
+MN1836,1:WHITE,Minneapolis,1: Less than one drink per week,69.5,84,171.9,175.3928571,23.51976896,1:PAST,220.46,0: No,1: Yes,0: No,0: No,70.3,2.74,42.4,0,0,1: Yes,1: Yes,42.4,70.3,3:SUMMER,sufficiency
+MN1837,1:WHITE,Minneapolis,0:None drinker,83.9,87,174.8,69.64285714,27.45864512,0:NO,149.48,0: No,1: Yes,0: No,0: No,76.2,3.27,37.1,0,0,1: Yes,1: Yes,37.1,76.2,4:FALL,sufficiency
+MN1861,1:WHITE,Minneapolis,3: 3-5 drinks per week,81.8,88,171.5,112.4285714,27.81154111,M:Not Applicable,88.34,0: No,1: Yes,0: No,0: No,61.6,1.97,27.6,0,0,1: Yes,1: Yes,27.6,61.6,4:FALL,sufficiency
+MN1868,1:WHITE,Minneapolis,0:None drinker,96,95,173.8,178.5714286,31.78130227,M:Not Applicable,143.36,0: No,1: Yes,0: No,0: No,60.2,3.42,41.3,0,0,1: Yes,1: Yes,41.3,60.2,4:FALL,sufficiency
+MN1877,1:WHITE,Minneapolis,2: 1-2drinks per week,80.8,86,170.95,130.75,27.64860032,1:PAST,379.82,0: No,0: No,0: No,0: No,42.9,1.9,27.1,0,0,1: Yes,1: Yes,27.1,42.9,4:FALL,sufficiency
+MN1887,1:WHITE,Minneapolis,3: 3-5 drinks per week,72,84,164.45,112.1785714,26.62347501,0:NO,146.17,1: Yes,1: Yes,0: No,0: No,62,1.84,21.5,0.8,0,1: Yes,0: No,22.3,62,4:FALL,sufficiency
+MN1894,2:AFRICAN AMERICAN,Minneapolis,1: Less than one drink per week,65.6,83,170.7,200.4285714,22.51317759,2:CURRENT,450.62,0: No,0: No,0: No,0: No,74.1,1.48,20.6,0,0,1: Yes,1: Yes,20.6,74.1,2:SPRING,sufficiency
+MN1897,1:WHITE,Minneapolis,2: 1-2drinks per week,84.8,80,176.15,40,27.32942895,1:PAST,160.11,1: Yes,0: No,0: No,0: No,25.2,4.16,26.7,0,0,1: Yes,1: Yes,26.7,25.2,2:SPRING,sufficiency
+MN1900,1:WHITE,Minneapolis,0:None drinker,70,89,169.05,37.85714286,24.49444986,0:NO,314.85,0: No,0: No,0: No,0: No,53.4,1.46,26.5,1,0,1: Yes,0: No,27.5,53.4,4:FALL,sufficiency
+MN1959,1:WHITE,Minneapolis,2: 1-2drinks per week,120.8,79,177.6,95.85714286,38.29843357,1:PAST,158.46,0: No,1: Yes,0: No,1: Yes,61.6,1.42,33.8,0,0,1: Yes,1: Yes,33.8,61.6,3:SUMMER,sufficiency
+MN1960,1:WHITE,Minneapolis,4: 6-13 drinks per week,82.9,83,178.6,132.0357143,25.98912282,1:PAST,55.58,0: No,1: Yes,0: No,0: No,91.6,4.1,31.1,0,0,1: Yes,1: Yes,31.1,91.6,2:SPRING,sufficiency
+MN2020,1:WHITE,Minneapolis,2: 1-2drinks per week,78.9,83,168.15,106.7142857,27.90507923,1:PAST,252.16,0: No,1: Yes,0: No,0: No,26,3.07,38.1,0,0,1: Yes,1: Yes,38.1,26,3:SUMMER,sufficiency
+MN2030,1:WHITE,Minneapolis,3: 3-5 drinks per week,94.3,79,176.25,200.1785714,30.3566219,0:NO,96.43,0: No,1: Yes,0: No,0: No,90.2,4.42,24.7,0,0,1: Yes,1: Yes,24.7,90.2,2:SPRING,sufficiency
+MN2078,1:WHITE,Minneapolis,1: Less than one drink per week,74.7,95,164.65,33.57142857,27.55479166,M:Not Applicable,162.38,0: No,1: Yes,0: No,0: No,49.2,2.29,30.2,0,0,1: Yes,1: Yes,30.2,49.2,4:FALL,sufficiency
+MN2099,1:WHITE,Minneapolis,1: Less than one drink per week,73.1,81,168.65,93.57142857,25.70068424,0:NO,85.28,0: No,1: Yes,1: Yes,0: No,45.3,4.7,38.3,0,0,1: Yes,1: Yes,38.3,45.3,4:FALL,sufficiency
+MN2101,1:WHITE,Minneapolis,0:None drinker,78.8,89,164.6,123.0714286,29.08483174,M:Not Applicable,122.64,0: No,0: No,0: No,0: No,50.5,2.39,30.4,0,0,1: Yes,1: Yes,30.4,50.5,3:SUMMER,sufficiency
+MN2131,1:WHITE,Minneapolis,1: Less than one drink per week,84,81,165.8,62.57142857,30.55696619,M:Not Applicable,49.34,0: No,1: Yes,0: No,0: No,37.3,2.49,24.2,0,0,1: Yes,1: Yes,24.2,37.3,2:SPRING,sufficiency
+MN2137,1:WHITE,Minneapolis,4: 6-13 drinks per week,68.7,98,162.75,269.5714286,25.93670142,1:PAST,459.48,0: No,0: No,0: No,0: No,57,2.84,30.8,0,0,1: Yes,1: Yes,30.8,57,3:SUMMER,sufficiency
+MN2141,1:WHITE,Minneapolis,2: 1-2drinks per week,112.9,84,178.75,108.1428571,35.33473519,1:PAST,136.42,0: No,0: No,0: No,0: No,50.2,1.38,30.3,0,0,1: Yes,1: Yes,30.3,50.2,2:SPRING,sufficiency
+MN2144,1:WHITE,Minneapolis,2: 1-2drinks per week,84.1,85,169.45,105.7857143,29.28956013,1:PAST,171.81,0: No,1: Yes,0: No,0: No,56.1,3.28,29.3,0,0,1: Yes,1: Yes,29.3,56.1,4:FALL,sufficiency
+MN2150,1:WHITE,Minneapolis,3: 3-5 drinks per week,67.4,87,166.45,60,24.32720963,1:PAST,29.73,1: Yes,1: Yes,0: No,0: No,65.1,4.59,57.3,0,0,1: Yes,1: Yes,57.3,65.1,2:SPRING,sufficiency
+MN2151,1:WHITE,Minneapolis,0:None drinker,101,80,182.05,187.3928571,30.47473987,M:Not Applicable,173.33,0: No,1: Yes,0: No,0: No,60,4.6,42.7,0,0,1: Yes,1: Yes,42.7,60,3:SUMMER,sufficiency
+MN2152,1:WHITE,Minneapolis,4: 6-13 drinks per week,67.8,81,170.2,86.35714286,23.40510438,1:PAST,37.58,0: No,1: Yes,0: No,0: No,57.2,3.46,29,0,0,1: Yes,1: Yes,29,57.2,2:SPRING,sufficiency
+MN2165,1:WHITE,Minneapolis,0:None drinker,81.3,81,173.7,176,26.94578925,0:NO,342.61,1: Yes,1: Yes,0: No,0: No,61.2,1.99,35.7,0,0,1: Yes,1: Yes,35.7,61.2,2:SPRING,sufficiency
+MN2181,1:WHITE,Minneapolis,3: 3-5 drinks per week,86.7,87,181.35,98.21428571,26.36234126,1:PAST,225.94,1: Yes,1: Yes,0: No,0: No,75.7,3.24,34,0,0,1: Yes,1: Yes,34,75.7,3:SUMMER,sufficiency
+MN2194,1:WHITE,Minneapolis,3: 3-5 drinks per week,71.8,80,172.75,238.7857143,24.05959609,0:NO,189.71,0: No,1: Yes,0: No,0: No,86.6,4.48,28.8,0,0,1: Yes,1: Yes,28.8,86.6,2:SPRING,sufficiency
+MN2195,1:WHITE,Minneapolis,0:None drinker,106,82,175.35,25.71428571,34.47421016,1:PAST,120.64,0: No,1: Yes,0: No,0: No,62.4,2.94,32.1,0,0,1: Yes,1: Yes,32.1,62.4,3:SUMMER,sufficiency
+MN2203,1:WHITE,Minneapolis,1: Less than one drink per week,75.4,86,167.45,119.2142857,26.89063403,1:PAST,84.77,0: No,1: Yes,0: No,0: No,53.1,3.71,37.1,0,0,1: Yes,1: Yes,37.1,53.1,2:SPRING,sufficiency
+MN2213,1:WHITE,Minneapolis,4: 6-13 drinks per week,79.2,78,177.95,84.67857143,25.01089292,1:PAST,386.61,1: Yes,1: Yes,0: No,0: No,75.3,4.17,34.6,0,0,1: Yes,1: Yes,34.6,75.3,2:SPRING,sufficiency
+MN2224,1:WHITE,Minneapolis,4: 6-13 drinks per week,69.8,93,158.5,62.5,27.78413558,M:Not Applicable,143.07,0: No,0: No,0: No,0: No,49.5,1.85,27.8,0,0,1: Yes,1: Yes,27.8,49.5,4:FALL,sufficiency
+MN2232,1:WHITE,Minneapolis,0:None drinker,84.9,92,178.55,68.57142857,26.63103106,1:PAST,254.53,0: No,1: Yes,0: No,0: No,43.9,1.92,28.9,0,0,1: Yes,1: Yes,28.9,43.9,4:FALL,sufficiency
+MN2241,1:WHITE,Minneapolis,1: Less than one drink per week,61.8,90,173.4,58.57142857,20.55371304,1:PAST,249.36,0: No,0: No,0: No,0: No,36.7,0.65,13.1,1,0,1: Yes,0: No,14.1,36.7,2:SPRING,deficiency
+MN2249,1:WHITE,Minneapolis,3: 3-5 drinks per week,69.5,83,173.35,131.8214286,23.12794855,0:NO,60.58,0: No,1: Yes,0: No,0: No,91.4,10.43,76.1,0,0,1: Yes,1: Yes,76.1,91.4,3:SUMMER,sufficiency
+MN2250,1:WHITE,Minneapolis,4: 6-13 drinks per week,72.2,79,164.75,190.9642857,26.60028875,1:PAST,365.16,0: No,0: No,0: No,0: No,67.1,5.94,33.3,0,0,1: Yes,1: Yes,33.3,67.1,2:SPRING,sufficiency
+MN2253,1:WHITE,Minneapolis,0:None drinker,82.4,84,166.55,118.3928571,29.70557325,1:PAST,169.27,0: No,1: Yes,0: No,0: No,66.1,4.25,29.7,0,0,1: Yes,1: Yes,29.7,66.1,2:SPRING,sufficiency
+MN2301,1:WHITE,Minneapolis,0:None drinker,99.8,81,167.5,107.2857143,35.57139675,1:PAST,323.18,0: No,1: Yes,0: No,0: No,38.4,2.83,28.1,0,0,1: Yes,1: Yes,28.1,38.4,3:SUMMER,sufficiency
+MN2304,1:WHITE,Minneapolis,1: Less than one drink per week,94,80,177.35,180.6785714,29.88584007,M:Not Applicable,93.57,0: No,0: No,0: No,0: No,43.8,1.68,19.3,0,0,1: Yes,1: Yes,19.3,43.8,2:SPRING,deficiency
+MN2311,5:OTHER,Minneapolis,0:None drinker,97.1,80,177.15,260.7142857,30.94118315,2:CURRENT,273.7,0: No,0: No,0: No,0: No,42.3,2.35,27.9,0,0,1: Yes,1: Yes,27.9,42.3,3:SUMMER,sufficiency
+MN2314,1:WHITE,Minneapolis,2: 1-2drinks per week,85.8,83,169.75,105.0357143,29.77609367,1:PAST,292.59,0: No,1: Yes,0: No,0: No,62.5,6,40.7,0,0,1: Yes,1: Yes,40.7,62.5,3:SUMMER,sufficiency
+MN2319,2:AFRICAN AMERICAN,Minneapolis,1: Less than one drink per week,71.7,88,172.35,194.2142857,24.13773862,1:PAST,93.75,0: No,0: No,0: No,0: No,65.6,0.53,20.3,0,0,1: Yes,1: Yes,20.3,65.6,3:SUMMER,sufficiency
+MN2326,1:WHITE,Minneapolis,0:None drinker,71,82,161.45,44.14285714,27.23844119,M:Not Applicable,520.43,1: Yes,1: Yes,0: No,0: No,44.1,2.86,32,0,0,1: Yes,1: Yes,32,44.1,3:SUMMER,sufficiency
+MN2328,1:WHITE,Minneapolis,4: 6-13 drinks per week,76.3,80,180.45,209.8571429,23.43207589,1:PAST,25.4,0: No,0: No,0: No,0: No,65.6,3.26,32.7,0,0,1: Yes,1: Yes,32.7,65.6,2:SPRING,sufficiency
+MN2329,1:WHITE,Minneapolis,0:None drinker,87.2,86,175.75,37.85714286,28.23097111,1:PAST,608.86,0: No,1: Yes,0: No,0: No,62.4,3.23,35.3,0.7,0,1: Yes,0: No,36,62.4,3:SUMMER,sufficiency
+MN2344,1:WHITE,Minneapolis,1: Less than one drink per week,75.5,83,168.8,55,26.4973271,1:PAST,107.45,0: No,0: No,0: No,0: No,79.7,2.44,35.3,0,0,1: Yes,1: Yes,35.3,79.7,2:SPRING,sufficiency
+MN2352,1:WHITE,Minneapolis,5: 14 or more drinks per week,73.1,80,176.2,148.2142857,23.54537267,1:PAST,82.34,0: No,0: No,0: No,0: No,115.4,5.14,36.1,0,0,1: Yes,1: Yes,36.1,115.4,3:SUMMER,sufficiency
+MN2358,1:WHITE,Minneapolis,0:None drinker,108.9,79,167.4,61,38.86126848,M:Not Applicable,185.08,0: No,1: Yes,0: No,0: No,68.7,4.6,47.5,0,0,1: Yes,1: Yes,47.5,68.7,3:SUMMER,sufficiency
+MN2362,1:WHITE,Minneapolis,0:None drinker,59.4,82,171.55,33.21428571,20.18389602,0:NO,310.39,0: No,1: Yes,0: No,0: No,38.9,4.5,58.4,0,0,1: Yes,1: Yes,58.4,38.9,2:SPRING,sufficiency
+MN2373,1:WHITE,Minneapolis,0:None drinker,68.8,80,172.25,16.07142857,23.18835695,1:PAST,312.18,0: No,1: Yes,0: No,0: No,37.3,2.63,32.7,0,0,1: Yes,1: Yes,32.7,37.3,3:SUMMER,sufficiency
+MN2378,1:WHITE,Minneapolis,0:None drinker,84.8,82,165.85,96.64285714,30.82938779,1:PAST,359.57,0: No,1: Yes,0: No,1: Yes,115,8.02,65.4,0,0,1: Yes,1: Yes,65.4,115,2:SPRING,sufficiency
+MN2392,1:WHITE,Minneapolis,0:None drinker,65.3,79,169,187.0714286,22.86334512,1:PAST,38.01,0: No,0: No,0: No,0: No,43.1,1.11,18,1.4,0,1: Yes,0: No,19.4,43.1,2:SPRING,deficiency
+MN2398,1:WHITE,Minneapolis,0:None drinker,79,88,166.1,0,28.63438279,1:PAST,158.77,1: Yes,1: Yes,0: No,0: No,56.1,2.11,38.4,0.9,0,1: Yes,0: No,39.3,56.1,2:SPRING,sufficiency
+MN2405,1:WHITE,Minneapolis,0:None drinker,81.2,84,164.95,119.7142857,29.8436123,1:PAST,,1: Yes,0: No,0: No,0: No,53.9,4.89,47.5,0.8,0,1: Yes,0: No,48.3,53.9,4:FALL,sufficiency
+MN2409,1:WHITE,Minneapolis,3: 3-5 drinks per week,72.4,86,170.95,77.89285714,24.77424088,0:NO,60.54,0: No,0: No,0: No,0: No,20.4,0.62,33,0.8,0,1: Yes,0: No,33.8,20.4,3:SUMMER,sufficiency
+MN2410,1:WHITE,Minneapolis,0:None drinker,73.9,83,166.05,144.5714286,26.80196764,0:NO,29.73,0: No,1: Yes,0: No,0: No,96.3,2.7,25.4,0,0,1: Yes,1: Yes,25.4,96.3,3:SUMMER,sufficiency
+MN2413,1:WHITE,Minneapolis,1: Less than one drink per week,89.2,86,176.15,123.1428571,28.74746536,0:NO,216.24,0: No,1: Yes,0: No,0: No,41.4,2.9,28.2,0,0,1: Yes,1: Yes,28.2,41.4,4:FALL,sufficiency
+MN2421,1:WHITE,Minneapolis,0:None drinker,90,80,174.45,60,29.57335263,0:NO,17.88,0: No,1: Yes,0: No,0: No,52.6,3.83,38.9,0,0,1: Yes,1: Yes,38.9,52.6,4:FALL,sufficiency
+MN2432,1:WHITE,Minneapolis,1: Less than one drink per week,79.5,87,175.7,21.42857143,25.75274963,0:NO,55.67,0: No,1: Yes,0: No,0: No,90.8,7.42,58.9,0,0,1: Yes,1: Yes,58.9,90.8,2:SPRING,sufficiency
+MN2439,1:WHITE,Minneapolis,0:None drinker,69.3,80,161.25,166.6785714,26.65224446,0:NO,78.55,0: No,1: Yes,0: No,0: No,62.1,2.65,49.9,0,0,1: Yes,1: Yes,49.9,62.1,4:FALL,sufficiency
+MN2452,1:WHITE,Minneapolis,0:None drinker,80,87,165.85,196.7142857,29.0843281,0:NO,96.1,0: No,1: Yes,0: No,0: No,54.2,2.68,24.9,0,0,1: Yes,1: Yes,24.9,54.2,2:SPRING,sufficiency
+MN2468,1:WHITE,Minneapolis,4: 6-13 drinks per week,84,86,178.15,111.2857143,26.46717767,0:NO,162.92,0: No,1: Yes,0: No,0: No,71.5,4.83,41.6,0,0,1: Yes,1: Yes,41.6,71.5,3:SUMMER,sufficiency
+MN2475,1:WHITE,Minneapolis,4: 6-13 drinks per week,57.5,84,163.4,129.5,21.53593542,M:Not Applicable,74.33,0: No,1: Yes,0: No,0: No,42,2.32,17.2,0,0,1: Yes,1: Yes,17.2,42,2:SPRING,deficiency
+MN2489,1:WHITE,Minneapolis,0:None drinker,84.8,81,175.2,72.5,27.62661329,1:PAST,331.63,0: No,1: Yes,0: No,0: No,60.6,4.04,38.9,0,0,1: Yes,1: Yes,38.9,60.6,2:SPRING,sufficiency
+MN2498,1:WHITE,Minneapolis,3: 3-5 drinks per week,83.3,83,166.6,97,30.0120048,M:Not Applicable,67.2,0: No,1: Yes,1: Yes,0: No,57.4,2.77,43.1,0,0,1: Yes,1: Yes,43.1,57.4,2:SPRING,sufficiency
+PA3024,1:WHITE,Palo Alto,4: 6-13 drinks per week,94.9,83,184.75,27.14285714,27.80336226,1:PAST,,0: No,1: Yes,0: No,0: No,100.9,2.49,29.6,0,0,1: Yes,1: Yes,29.6,100.9,3:SUMMER,sufficiency
+PA3079,1:WHITE,Palo Alto,3: 3-5 drinks per week,70,84,162.25,191.6071429,26.59063013,1:PAST,307.78,0: No,1: Yes,0: No,0: No,53.6,2.63,34.2,0,0,1: Yes,1: Yes,34.2,53.6,4:FALL,sufficiency
+PA3081,1:WHITE,Palo Alto,4: 6-13 drinks per week,77.2,84,170.9,93.57142857,26.43219167,0:NO,128.56,0: No,0: No,0: No,0: No,37.9,4.72,41.9,0,0,1: Yes,1: Yes,41.9,37.9,4:FALL,sufficiency
+PA3084,1:WHITE,Palo Alto,3: 3-5 drinks per week,59,89,161.4,122.0357143,22.64878718,1:PAST,129.08,0: No,1: Yes,0: No,0: No,59.7,4.52,32.7,0.8,0,1: Yes,0: No,33.5,59.7,4:FALL,sufficiency
+PA3107,1:WHITE,Palo Alto,3: 3-5 drinks per week,83.8,83,171,136,28.65839062,1:PAST,104.26,1: Yes,1: Yes,0: No,1: Yes,62.4,2.32,42.8,0.7,0,1: Yes,0: No,43.5,62.4,3:SUMMER,sufficiency
+PA3131,1:WHITE,Palo Alto,4: 6-13 drinks per week,84.1,81,165.15,155.2857143,30.83463698,1:PAST,37.42,0: No,0: No,0: No,0: No,72,4.49,37.2,0.8,0,1: Yes,0: No,38,72,2:SPRING,sufficiency
+PA3199,1:WHITE,Palo Alto,0:None drinker,80.8,87,182.85,41.07142857,24.16692707,1:PAST,113.6,0: No,0: No,0: No,0: No,61.8,3.55,29,0,0,1: Yes,1: Yes,29,61.8,4:FALL,sufficiency
+PA3291,4:HISPANIC,Palo Alto,3: 3-5 drinks per week,94.6,92,175,86.96428571,30.88979592,1:PAST,29.37,0: No,1: Yes,0: No,0: No,48.7,3.14,34.1,0,0,1: Yes,1: Yes,34.1,48.7,2:SPRING,sufficiency
+PA3339,1:WHITE,Palo Alto,4: 6-13 drinks per week,78.1,80,171.5,65.71428571,26.55356187,1:PAST,375.85,0: No,1: Yes,1: Yes,1: Yes,63.8,5.75,44.5,0,0,1: Yes,1: Yes,44.5,63.8,2:SPRING,sufficiency
+PA3394,1:WHITE,Palo Alto,3: 3-5 drinks per week,67.8,87,166.85,161.7142857,24.35439087,0:NO,230.79,0: No,1: Yes,0: No,0: No,55.5,6.98,54.3,0,0,1: Yes,1: Yes,54.3,55.5,2:SPRING,sufficiency
+PA3406,1:WHITE,Palo Alto,4: 6-13 drinks per week,73,85,160.95,70.71428571,28.17999412,0:NO,102.9,0: No,1: Yes,0: No,0: No,52,2.32,39.3,0,0,1: Yes,1: Yes,39.3,52,2:SPRING,sufficiency
+PA3444,1:WHITE,Palo Alto,4: 6-13 drinks per week,72.5,81,178.75,204.5714286,22.69059612,0:NO,31.4,0: No,1: Yes,0: No,0: No,40.4,2.54,34.3,1.1,0,1: Yes,0: No,35.4,40.4,2:SPRING,sufficiency
+PA3446,1:WHITE,Palo Alto,5: 14 or more drinks per week,69.3,89,166.75,43.21428571,24.9230707,0:NO,194.02,0: No,1: Yes,0: No,0: No,80.1,6.92,53.5,0,0,1: Yes,1: Yes,53.5,80.1,2:SPRING,sufficiency
+PA3450,1:WHITE,Palo Alto,2: 1-2drinks per week,94.9,79,175,85,30.9877551,2:CURRENT,43.46,0: No,1: Yes,0: No,0: No,62,2.85,49.5,0,0,1: Yes,1: Yes,49.5,62,2:SPRING,sufficiency
+PA3457,1:WHITE,Palo Alto,4: 6-13 drinks per week,78.2,85,180.2,150,24.08225661,0:NO,462.34,0: No,1: Yes,0: No,0: No,82.5,6.01,41.9,0,0,1: Yes,1: Yes,41.9,82.5,2:SPRING,sufficiency
+PA3462,1:WHITE,Palo Alto,4: 6-13 drinks per week,74.8,88,179.1,53.17857143,23.31902705,1:PAST,,0: No,0: No,0: No,0: No,47.9,1.42,16.9,0.7,0,1: Yes,0: No,17.6,47.9,2:SPRING,deficiency
+PA3467,1:WHITE,Palo Alto,4: 6-13 drinks per week,65.9,83,171.45,101.75,22.41870053,M:Not Applicable,416.66,0: No,1: Yes,0: No,0: No,68.4,2.67,33.8,4.2,0,1: Yes,0: No,38,68.4,3:SUMMER,sufficiency
+PA3468,1:WHITE,Palo Alto,5: 14 or more drinks per week,102.7,83,178.25,60,32.32297799,1:PAST,142.16,0: No,1: Yes,0: No,0: No,44.2,3.28,33,0.9,0,1: Yes,0: No,33.9,44.2,4:FALL,sufficiency
+PA3472,1:WHITE,Palo Alto,4: 6-13 drinks per week,74.1,93,172.1,97.5,25.01822346,0:NO,65.22,0: No,1: Yes,0: No,0: No,51.5,3.39,35.9,0,0,1: Yes,1: Yes,35.9,51.5,2:SPRING,sufficiency
+PA3479,1:WHITE,Palo Alto,2: 1-2drinks per week,77.8,87,174.35,159,25.59385432,1:PAST,,0: No,0: No,0: No,0: No,69.2,0.8,17.6,0,0,1: Yes,1: Yes,17.6,69.2,2:SPRING,deficiency
+PA3489,4:HISPANIC,Palo Alto,1: Less than one drink per week,79.1,81,174.15,180.6785714,26.08131749,0:NO,60.91,0: No,1: Yes,0: No,0: No,58.4,2.83,38.4,0,0,1: Yes,1: Yes,38.4,58.4,3:SUMMER,sufficiency
+PA3492,1:WHITE,Palo Alto,1: Less than one drink per week,64.9,84,167.3,228.1785714,23.18744062,1:PAST,276.57,0: No,0: No,0: No,0: No,63.9,3.27,42.7,0,0,1: Yes,1: Yes,42.7,63.9,2:SPRING,sufficiency
+PA3495,3:ASIAN,Palo Alto,3: 3-5 drinks per week,65.3,93,163.3,43.85714286,24.48729492,1:PAST,,1: Yes,0: No,0: No,0: No,40.7,3.86,40.7,1.5,0,1: Yes,0: No,42.2,40.7,3:SUMMER,sufficiency
+PA3542,1:WHITE,Palo Alto,5: 14 or more drinks per week,82.5,97,183.55,63.57142857,24.4875407,M:Not Applicable,244.91,0: No,1: Yes,0: No,0: No,79.9,3.56,44,0.8,0,1: Yes,0: No,44.8,79.9,4:FALL,sufficiency
+PA3548,1:WHITE,Palo Alto,0:None drinker,84.6,87,173.35,96.10714286,28.15286975,1:PAST,309.66,0: No,1: Yes,0: No,0: No,53,3.55,31.8,0,0,1: Yes,1: Yes,31.8,53,3:SUMMER,sufficiency
+PA3551,1:WHITE,Palo Alto,0:None drinker,70.1,82,175.75,33.57142857,22.69485177,0:NO,131.78,0: No,1: Yes,0: No,0: No,54.6,1.78,25.8,0,0,1: Yes,1: Yes,25.8,54.6,3:SUMMER,sufficiency
+PA3553,1:WHITE,Palo Alto,5: 14 or more drinks per week,85.9,86,179.45,122.25,26.6751112,0:NO,104.03,0: No,0: No,0: No,0: No,46.2,2,25.9,0,0,1: Yes,1: Yes,25.9,46.2,3:SUMMER,sufficiency
+PA3594,1:WHITE,Palo Alto,2: 1-2drinks per week,84.5,84,182.05,178.4642857,25.49619326,1:PAST,172.16,0: No,1: Yes,0: No,0: No,39.5,1.42,17,59,0,1: Yes,0: No,76,39.5,2:SPRING,deficiency
+PA3606,1:WHITE,Palo Alto,0:None drinker,75.9,86,169.15,118.25,26.52758847,1:PAST,86.53,1: Yes,1: Yes,0: No,0: No,42.2,6.38,54.6,0,0,1: Yes,1: Yes,54.6,42.2,3:SUMMER,sufficiency
+PA3640,1:WHITE,Palo Alto,0:None drinker,85.4,84,174.1,5,28.17476669,0:NO,69.66,0: No,0: No,0: No,0: No,33.8,3.46,42.9,0,0,1: Yes,1: Yes,42.9,33.8,2:SPRING,sufficiency
+PA3645,1:WHITE,Palo Alto,0:None drinker,76.2,82,166.55,37.10714286,27.47044516,0:NO,208.41,0: No,1: Yes,0: No,0: No,41,3.17,32.6,0,0,1: Yes,1: Yes,32.6,41,4:FALL,sufficiency
+PA3650,1:WHITE,Palo Alto,0:None drinker,74.2,91,178.25,125,23.35311555,0:NO,30.5,0: No,1: Yes,0: No,1: Yes,142.1,9.18,58,0,0,1: Yes,1: Yes,58,142.1,2:SPRING,sufficiency
+PA3651,1:WHITE,Palo Alto,2: 1-2drinks per week,76.6,86,170.9,150.3214286,26.22676013,0:NO,217.76,0: No,1: Yes,0: No,0: No,51.5,2.47,28.8,0,0,1: Yes,1: Yes,28.8,51.5,2:SPRING,sufficiency
+PA3673,1:WHITE,Palo Alto,2: 1-2drinks per week,60.7,94,178.25,123.4642857,19.10423334,0:NO,149.5,0: No,1: Yes,0: No,0: No,63.7,2.86,29.8,1.5,0,1: Yes,0: No,31.3,63.7,2:SPRING,sufficiency
+PA3702,1:WHITE,Palo Alto,0:None drinker,88.5,96,176.3,27.14285714,28.47335521,0:NO,207.84,0: No,1: Yes,0: No,0: No,51.3,4.72,36.9,0,0,1: Yes,1: Yes,36.9,51.3,4:FALL,sufficiency
+PA3707,1:WHITE,Palo Alto,0:None drinker,70.3,89,174.35,172.2142857,23.12658044,1:PAST,786.78,0: No,0: No,0: No,0: No,73.5,4.77,50.7,1,0,1: Yes,0: No,51.7,73.5,3:SUMMER,sufficiency
+PA3743,1:WHITE,Palo Alto,0:None drinker,81.6,79,177.85,116,25.79778504,1:PAST,39.31,0: No,1: Yes,0: No,0: No,30.6,2.32,30.9,0,0,1: Yes,1: Yes,30.9,30.6,3:SUMMER,sufficiency
+PA3754,1:WHITE,Palo Alto,4: 6-13 drinks per week,57.3,94,159.6,46.42857143,22.49514764,0:NO,80.39,0: No,1: Yes,0: No,0: No,70.2,5.35,52,0,0,1: Yes,1: Yes,52,70.2,2:SPRING,sufficiency
+PA3768,3:ASIAN,Palo Alto,0:None drinker,68,81,166.95,65,24.39697976,0:NO,248.37,0: No,0: No,0: No,0: No,62.1,3.26,38.4,4.2,0,1: Yes,0: No,42.6,62.1,2:SPRING,sufficiency
+PA3771,3:ASIAN,Palo Alto,0:None drinker,70.6,92,163.75,73.5,26.32946798,1:PAST,108.98,0: No,1: Yes,0: No,0: No,31.7,2.91,30.4,0,0,1: Yes,1: Yes,30.4,31.7,4:FALL,sufficiency
+PA3783,1:WHITE,Palo Alto,0:None drinker,64.8,81,172.9,133,21.67629333,1:PAST,0.429,0: No,0: No,0: No,0: No,43.9,0.68,12.3,6.8,12.19999695,0: No,0: No,19.1,56.1,3:SUMMER,deficiency
+PA3814,1:WHITE,Palo Alto,0:None drinker,70.6,94,162.5,22.5,26.73609467,0:NO,279.24,0: No,1: Yes,0: No,0: No,47.8,3.65,33.7,0,0,1: Yes,1: Yes,33.7,47.8,3:SUMMER,sufficiency
+PA3824,3:ASIAN,Palo Alto,0:None drinker,74.1,82,158.6,168.4285714,29.45858227,0:NO,80.59,0: No,1: Yes,0: No,0: No,44.7,2.32,25.5,0,0,1: Yes,1: Yes,25.5,44.7,3:SUMMER,sufficiency
+PA3828,3:ASIAN,Palo Alto,3: 3-5 drinks per week,63,90,161.45,25.71428571,24.16932106,1:PAST,,0: No,1: Yes,0: No,0: No,58.4,2.94,33,0,0,1: Yes,1: Yes,33,58.4,3:SUMMER,sufficiency
+PA3839,1:WHITE,Palo Alto,3: 3-5 drinks per week,72,83,178.65,160.7142857,22.55934341,1:PAST,356.66,0: No,0: No,0: No,0: No,65.8,5.19,53.4,0,0,1: Yes,1: Yes,53.4,65.8,2:SPRING,sufficiency
+PA3842,1:WHITE,Palo Alto,1: Less than one drink per week,74.9,78,185.1,128.3928571,21.86094745,0:NO,120.75,0: No,1: Yes,1: Yes,0: No,80.1,3.84,33.3,0,0,1: Yes,1: Yes,33.3,80.1,3:SUMMER,sufficiency
+PA3844,3:ASIAN,Palo Alto,0:None drinker,70.5,80,159.7,165.5714286,27.64262516,0:NO,145.88,0: No,0: No,0: No,0: No,38.4,1.97,27.5,0,0,1: Yes,1: Yes,27.5,38.4,3:SUMMER,sufficiency
+PA3853,1:WHITE,Palo Alto,0:None drinker,73.5,96,164.55,50.71428571,27.1451075,1:PAST,185.5,0: No,0: No,0: No,0: No,30.7,1.71,36.1,0,0,1: Yes,1: Yes,36.1,30.7,3:SUMMER,sufficiency
+PA3854,3:ASIAN,Palo Alto,3: 3-5 drinks per week,70.1,85,170.1,162.25,24.22754399,1:PAST,51.52,0: No,1: Yes,0: No,0: No,59.7,4.36,37.8,0,0,1: Yes,1: Yes,37.8,59.7,3:SUMMER,sufficiency
+PA3863,3:ASIAN,Palo Alto,4: 6-13 drinks per week,73.6,86,167.8,68.07142857,26.13929688,1:PAST,63.1,0: No,1: Yes,0: No,0: No,54.4,4.3,29.8,1.3,0,1: Yes,0: No,31.1,54.4,3:SUMMER,sufficiency
+PA3880,1:WHITE,Palo Alto,5: 14 or more drinks per week,66,80,168.6,73.42857143,23.21821321,1:PAST,84.98,1: Yes,1: Yes,0: No,0: No,51.1,3.92,42.3,0,0,1: Yes,1: Yes,42.3,51.1,3:SUMMER,sufficiency
+PA3885,3:ASIAN,Palo Alto,0:None drinker,51.4,80,160,92.78571429,20.078125,0:NO,51.95,0: No,1: Yes,0: No,0: No,58.3,3.21,24,0,0,1: Yes,1: Yes,24,58.3,3:SUMMER,sufficiency
+PA3890,3:ASIAN,Palo Alto,2: 1-2drinks per week,83.8,85,173.75,173.1428571,27.7583976,0:NO,223.55,0: No,1: Yes,0: No,1: Yes,44.8,2.2,31.9,3.5,0,1: Yes,0: No,35.4,44.8,2:SPRING,sufficiency
+PA3893,1:WHITE,Palo Alto,4: 6-13 drinks per week,77.3,81,174.95,158.2142857,25.25524583,1:PAST,79.05,0: No,1: Yes,0: No,0: No,60.1,4.44,42.6,0,0,1: Yes,1: Yes,42.6,60.1,3:SUMMER,sufficiency
+PA3898,3:ASIAN,Palo Alto,0:None drinker,71.9,90,177.3,103.2142857,22.87238324,0:NO,145.29,0: No,1: Yes,0: No,0: No,37.3,3.13,31.7,3,0,1: Yes,0: No,34.7,37.3,3:SUMMER,sufficiency
+PA3902,1:WHITE,Palo Alto,0:None drinker,74,87,169.1,25,25.87882207,1:PAST,56.66,0: No,1: Yes,0: No,0: No,46.4,2.35,44,0,0,1: Yes,1: Yes,44,46.4,3:SUMMER,sufficiency
+PA3907,4:HISPANIC,Palo Alto,4: 6-13 drinks per week,119.1,86,171.2,112.4642857,40.63537208,1:PAST,56.59,0: No,1: Yes,1: Yes,0: No,40.6,2.66,27.5,0,0,1: Yes,1: Yes,27.5,40.6,3:SUMMER,sufficiency
+PA3909,3:ASIAN,Palo Alto,0:None drinker,66.6,80,161.5,100.25,25.53460687,1:PAST,81.21,0: No,1: Yes,1: Yes,0: No,37.6,3.11,34.9,0,0,1: Yes,1: Yes,34.9,37.6,3:SUMMER,sufficiency
+PA3911,1:WHITE,Palo Alto,3: 3-5 drinks per week,75,85,170.9,167.8571429,25.67894268,1:PAST,87.84,0: No,0: No,0: No,0: No,56.7,3.71,27.2,0,0,1: Yes,1: Yes,27.2,56.7,3:SUMMER,sufficiency
+PA3940,1:WHITE,Palo Alto,0:None drinker,68.8,87,178.8,154,21.52055213,0:NO,202.75,0: No,1: Yes,0: No,0: No,44.8,3.27,43.2,0,0,1: Yes,1: Yes,43.2,44.8,3:SUMMER,sufficiency
+PA3949,4:HISPANIC,Palo Alto,3: 3-5 drinks per week,65.8,88,161.75,30.35714286,25.14996094,1:PAST,40.31,0: No,1: Yes,0: No,0: No,59.6,2.19,22.9,0,0,1: Yes,1: Yes,22.9,59.6,4:FALL,sufficiency
+PA3950,1:WHITE,Palo Alto,0:None drinker,64.2,83,171,119.7142857,21.95547348,1:PAST,154.83,0: No,1: Yes,0: No,0: No,59.6,7.02,53.8,7.9,0,1: Yes,0: No,61.7,59.6,4:FALL,sufficiency
+PA3953,4:HISPANIC,Palo Alto,5: 14 or more drinks per week,67.4,87,164.45,197.1785714,24.92253077,0:NO,183.55,0: No,1: Yes,0: No,0: No,63.9,4.11,35.5,0,0,1: Yes,1: Yes,35.5,63.9,4:FALL,sufficiency
+PA3960,1:WHITE,Palo Alto,3: 3-5 drinks per week,88.5,87,171.3,83.03571429,30.15980608,1:PAST,118.89,0: No,1: Yes,1: Yes,0: No,47.7,2.81,47.9,0,0,1: Yes,1: Yes,47.9,47.7,4:FALL,sufficiency
+PA3975,4:HISPANIC,Palo Alto,1: Less than one drink per week,70.1,81,158.15,195.7142857,28.02719437,1:PAST,209.55,0: No,1: Yes,0: No,0: No,34.1,1.38,19.9,1.6,0,1: Yes,0: No,21.5,34.1,4:FALL,deficiency
+PA3977,1:WHITE,Palo Alto,3: 3-5 drinks per week,87.2,89,179.3,183,27.12413553,1:PAST,186.2,0: No,0: No,0: No,0: No,40.2,1.93,18.5,0,0,1: Yes,1: Yes,18.5,40.2,4:FALL,deficiency
+PA3980,1:WHITE,Palo Alto,3: 3-5 drinks per week,94.6,83,181.65,58.57142857,28.66951407,1:PAST,36.58,0: No,1: Yes,0: No,0: No,63.7,3.46,28.6,0,0,1: Yes,1: Yes,28.6,63.7,4:FALL,sufficiency
+PA3993,4:HISPANIC,Palo Alto,2: 1-2drinks per week,67.1,81,170.05,124.9642857,23.20434146,0:NO,50.83,0: No,1: Yes,0: No,0: No,62,4.24,27.4,0,0,1: Yes,1: Yes,27.4,62,4:FALL,sufficiency
+PI4519,1:WHITE,Pittsburgh,2: 1-2drinks per week,89.4,81,182.95,85,26.70992639,M:Not Applicable,119.91,1: Yes,0: No,0: No,0: No,34.7,1.74,23.7,8.9,0,1: Yes,0: No,32.6,34.7,3:SUMMER,sufficiency
+PI4533,1:WHITE,Pittsburgh,4: 6-13 drinks per week,74.3,83,163.1,129.2142857,27.93064029,0:NO,170.75,0: No,1: Yes,0: No,0: No,128.1,9.8,65.1,0,0,1: Yes,1: Yes,65.1,128.1,2:SPRING,sufficiency
+PI4544,1:WHITE,Pittsburgh,2: 1-2drinks per week,79.6,80,176.85,91.67857143,25.45088798,M:Not Applicable,49.2,0: No,1: Yes,0: No,0: No,43.4,3.11,47.7,0,0,1: Yes,1: Yes,47.7,43.4,2:SPRING,sufficiency
+PI4564,1:WHITE,Pittsburgh,0:None drinker,71.5,84,164.2,231.7142857,26.51915833,1:PAST,49.67,0: No,0: No,0: No,0: No,50.1,2.32,32.6,1.3,0,1: Yes,0: No,33.9,50.1,4:FALL,sufficiency
+PI4572,1:WHITE,Pittsburgh,1: Less than one drink per week,88,81,176.1,91,28.37683534,0:NO,335.74,0: No,1: Yes,0: No,0: No,87.4,3.33,34,0,0,1: Yes,1: Yes,34,87.4,2:SPRING,sufficiency
+PI4606,1:WHITE,Pittsburgh,0:None drinker,79,83,173.35,101,26.28932282,1:PAST,117.12,0: No,1: Yes,0: No,1: Yes,59.2,3.34,29.7,0,0,1: Yes,1: Yes,29.7,59.2,2:SPRING,sufficiency
+PI4621,1:WHITE,Pittsburgh,4: 6-13 drinks per week,83.7,86,187.2,66.35714286,23.88436884,1:PAST,629.08,0: No,1: Yes,0: No,0: No,86.1,5.9,41.9,0,0,1: Yes,1: Yes,41.9,86.1,2:SPRING,sufficiency
+PI4625,1:WHITE,Pittsburgh,0:None drinker,103.7,82,164.45,80,38.34519942,1:PAST,135.24,0: No,1: Yes,0: No,0: No,60.6,3.56,35.9,3.5,0,1: Yes,0: No,39.4,60.6,3:SUMMER,sufficiency
+PI4641,1:WHITE,Pittsburgh,1: Less than one drink per week,127.6,80,172.4,144.5714286,42.93150877,1:PAST,19.03,0: No,1: Yes,0: No,0: No,89.3,3.16,39.3,0,0,1: Yes,1: Yes,39.3,89.3,2:SPRING,sufficiency
+PI4644,1:WHITE,Pittsburgh,0:None drinker,73,92,160.4,30,28.37357977,0:NO,119.64,0: No,1: Yes,0: No,0: No,36.8,2.36,26.6,0,0,1: Yes,1: Yes,26.6,36.8,3:SUMMER,sufficiency
+PI4672,1:WHITE,Pittsburgh,2: 1-2drinks per week,82.8,85,177.4,183.3571429,26.31013677,0:NO,29.27,0: No,1: Yes,0: No,0: No,73,4.07,43.5,0.8,0,1: Yes,0: No,44.3,73,2:SPRING,sufficiency
+PI4696,1:WHITE,Pittsburgh,0:None drinker,82.6,84,172.1,128.5714286,27.88806016,0:NO,128.23,0: No,1: Yes,0: No,0: No,48.5,3.35,40.7,0,0,1: Yes,1: Yes,40.7,48.5,3:SUMMER,sufficiency
+PI4711,1:WHITE,Pittsburgh,0:None drinker,80.7,84,175.4,198.4642857,26.23097036,0:NO,105.26,1: Yes,1: Yes,0: No,0: No,41.5,1.18,20.3,0.9,0,1: Yes,0: No,21.2,41.5,4:FALL,sufficiency
+PI4717,1:WHITE,Pittsburgh,0:None drinker,92,80,177.7,187.4285714,29.13486243,0:NO,316.33,0: No,1: Yes,0: No,0: No,40.4,2.78,34.1,0,0,1: Yes,1: Yes,34.1,40.4,2:SPRING,sufficiency
+PI4718,1:WHITE,Pittsburgh,0:None drinker,76.1,82,169.05,241.4642857,26.62896621,1:PAST,172.74,0: No,1: Yes,0: No,0: No,71.6,4.58,45.8,0,0,1: Yes,1: Yes,45.8,71.6,4:FALL,sufficiency
+PI4741,1:WHITE,Pittsburgh,0:None drinker,94.1,82,174.85,161.4642857,30.77927247,1:PAST,90.5,0: No,1: Yes,0: No,0: No,59.8,4.19,42.3,0,0,1: Yes,1: Yes,42.3,59.8,2:SPRING,sufficiency
+PI4748,1:WHITE,Pittsburgh,1: Less than one drink per week,103.8,80,168.7,138.4285714,36.47263902,1:PAST,118.59,0: No,1: Yes,0: No,0: No,48.6,3.93,39.1,0,0,1: Yes,1: Yes,39.1,48.6,2:SPRING,sufficiency
+PI4756,1:WHITE,Pittsburgh,2: 1-2drinks per week,81.4,86,172,20.67857143,27.5148729,0:NO,242.4,0: No,1: Yes,0: No,0: No,70.4,4.21,29.7,0,0,1: Yes,1: Yes,29.7,70.4,2:SPRING,sufficiency
+PI4766,1:WHITE,Pittsburgh,4: 6-13 drinks per week,101.6,79,175.85,132.0357143,32.85556672,1:PAST,136.16,0: No,0: No,0: No,0: No,59.2,0.3,8.8,0,0,1: Yes,1: Yes,8.8,59.2,2:SPRING,deficiency
+PI4784,1:WHITE,Pittsburgh,0:None drinker,80.8,84,172.85,25,27.04410373,1:PAST,138.77,0: No,0: No,0: No,0: No,45.2,0.51,12.9,1.1,0,1: Yes,0: No,14,45.2,2:SPRING,deficiency
+PI4798,1:WHITE,Pittsburgh,0:None drinker,88.7,84,172.25,91,29.89545438,M:Not Applicable,44.82,1: Yes,0: No,0: No,0: No,34.1,0.9,17.7,0,0,1: Yes,1: Yes,17.7,34.1,1:WINTER,deficiency
+PI4801,1:WHITE,Pittsburgh,0:None drinker,83.5,85,173.4,154.2142857,27.77079351,0:NO,416.98,0: No,0: No,0: No,0: No,44.8,2.11,27.2,0,0,1: Yes,1: Yes,27.2,44.8,4:FALL,sufficiency
+PI4804,1:WHITE,Pittsburgh,0:None drinker,78.1,86,170.65,169.6428571,26.81874486,1:PAST,127.51,0: No,1: Yes,0: No,0: No,41.3,0.91,23.5,0,0,1: Yes,1: Yes,23.5,41.3,3:SUMMER,sufficiency
+PI4818,1:WHITE,Pittsburgh,2: 1-2drinks per week,72,85,169.15,124.5714286,25.1645108,0:NO,118.33,0: No,1: Yes,0: No,0: No,89.6,14.07,86.1,0,0,1: Yes,1: Yes,86.1,89.6,4:FALL,sufficiency
+PI4820,1:WHITE,Pittsburgh,2: 1-2drinks per week,82.6,83,170.7,188.5,28.34738519,0:NO,56.65,0: No,1: Yes,0: No,0: No,77.7,1.87,34.7,0,0,1: Yes,1: Yes,34.7,77.7,2:SPRING,sufficiency
+PI4831,1:WHITE,Pittsburgh,0:None drinker,96,83,158.7,102.2142857,38.11688304,M:Not Applicable,120.32,1: Yes,1: Yes,0: No,0: No,61.8,1.74,46.8,0,0,1: Yes,1: Yes,46.8,61.8,2:SPRING,sufficiency
+PI4847,1:WHITE,Pittsburgh,0:None drinker,70.5,80,173.45,50,23.43368073,1:PAST,390.61,0: No,0: No,0: No,0: No,46.7,2.26,27.5,0,0,1: Yes,1: Yes,27.5,46.7,3:SUMMER,sufficiency
+PI4848,1:WHITE,Pittsburgh,0:None drinker,108,81,172.95,50,36.10626978,1:PAST,113.9,0: No,0: No,0: No,0: No,48.2,1.77,24.1,0,0,1: Yes,1: Yes,24.1,48.2,4:FALL,sufficiency
+PI4850,1:WHITE,Pittsburgh,0:None drinker,69,88,167.25,93.57142857,24.66702863,0:NO,155.44,0: No,1: Yes,0: No,0: No,57.4,3.94,37.9,0,0,1: Yes,1: Yes,37.9,57.4,4:FALL,sufficiency
+PI4856,1:WHITE,Pittsburgh,0:None drinker,77.5,82,171.95,40,26.21182997,0:NO,234.35,0: No,1: Yes,0: No,0: No,48.8,1.84,21.1,1.1,0,1: Yes,0: No,22.2,48.8,2:SPRING,sufficiency
+PI4871,1:WHITE,Pittsburgh,4: 6-13 drinks per week,92,85,171.7,103.5714286,31.20665624,1:PAST,237.17,0: No,1: Yes,0: No,0: No,63.7,4.36,37.8,0,0,1: Yes,1: Yes,37.8,63.7,4:FALL,sufficiency
+PI4899,1:WHITE,Pittsburgh,1: Less than one drink per week,83.5,82,178.65,179.8571429,26.16257187,M:Not Applicable,261.71,0: No,1: Yes,0: No,0: No,34.9,3.29,26.9,0,0,1: Yes,1: Yes,26.9,34.9,3:SUMMER,sufficiency
+PI4907,1:WHITE,Pittsburgh,0:None drinker,87.2,81,180.55,156.7857143,26.74985914,0:NO,67.2,0: No,1: Yes,0: No,0: No,52,3.33,35.7,0,0,1: Yes,1: Yes,35.7,52,3:SUMMER,sufficiency
+PI4917,1:WHITE,Pittsburgh,1: Less than one drink per week,77.4,90,171.7,120,26.25429558,1:PAST,170.19,0: No,1: Yes,1: Yes,0: No,84.7,5.8,42,0,0,1: Yes,1: Yes,42,84.7,2:SPRING,sufficiency
+PI4923,1:WHITE,Pittsburgh,0:None drinker,74.5,88,174,223.2857143,24.6069494,M:Not Applicable,81.37,0: No,1: Yes,0: No,0: No,62.8,2.66,26.9,2.3,0,1: Yes,0: No,29.2,62.8,2:SPRING,sufficiency
+PI4930,1:WHITE,Pittsburgh,0:None drinker,63,84,172.8,191.7142857,21.09857253,0:NO,111.22,0: No,0: No,0: No,0: No,57,1.36,22.1,1.3,0,1: Yes,0: No,23.4,57,2:SPRING,sufficiency
+PI4944,1:WHITE,Pittsburgh,0:None drinker,82.5,88,177.1,30,26.303699,1:PAST,103.92,0: No,1: Yes,0: No,0: No,66.2,1.86,24.3,1,0,1: Yes,0: No,25.3,66.2,2:SPRING,sufficiency
+PI4946,1:WHITE,Pittsburgh,.,95.7,80,187.35,305.8571429,27.26493979,1:PAST,234.22,0: No,0: No,0: No,0: No,27,2.57,28.5,0,0,1: Yes,1: Yes,28.5,27,2:SPRING,sufficiency
+PI4951,2:AFRICAN AMERICAN,Pittsburgh,0:None drinker,99,79,168.5,81,34.86867015,0:NO,27.55,0: No,0: No,0: No,0: No,48,0.45,8.5,1.2,0,1: Yes,0: No,9.7,48,4:FALL,deficiency
+PI4966,1:WHITE,Pittsburgh,1: Less than one drink per week,71.4,91,164.65,85,26.33751171,M:Not Applicable,174.41,0: No,1: Yes,0: No,0: No,38,2,37.6,0,0,1: Yes,1: Yes,37.6,38,3:SUMMER,sufficiency
+PI4984,1:WHITE,Pittsburgh,0:None drinker,92,82,178.15,116,28.98786125,0:NO,200.69,0: No,1: Yes,0: No,0: No,39.4,4.53,33.1,0,0,1: Yes,1: Yes,33.1,39.4,2:SPRING,sufficiency
+PI4995,1:WHITE,Pittsburgh,1: Less than one drink per week,69.9,80,162.8,107,26.37353682,0:NO,215.18,0: No,1: Yes,0: No,0: No,66.2,3.13,34.6,0,0,1: Yes,1: Yes,34.6,66.2,4:FALL,sufficiency
+PI4998,1:WHITE,Pittsburgh,1: Less than one drink per week,78.1,83,168.75,87.42857143,27.4260631,1:PAST,93.03,0: No,1: Yes,1: Yes,0: No,28.2,2.3,25.7,3.1,0,1: Yes,0: No,28.8,28.2,2:SPRING,sufficiency
+PI5011,1:WHITE,Pittsburgh,1: Less than one drink per week,96.2,80,182.3,141.3571429,28.94687827,0:NO,190.23,0: No,1: Yes,0: No,0: No,73.3,3.01,30.9,0,0,1: Yes,1: Yes,30.9,73.3,2:SPRING,sufficiency
+PI5016,1:WHITE,Pittsburgh,1: Less than one drink per week,84,87,169,113.5,29.41073492,1:PAST,358.47,0: No,1: Yes,0: No,0: No,51.8,3.82,32.3,0,0,1: Yes,1: Yes,32.3,51.8,3:SUMMER,sufficiency
+PI5022,1:WHITE,Pittsburgh,0:None drinker,62.7,81,160.8,342.4285714,24.24909037,1:PAST,39.21,0: No,1: Yes,0: No,0: No,64.4,3.14,32.4,0,0,1: Yes,1: Yes,32.4,64.4,2:SPRING,sufficiency
+PI5034,1:WHITE,Pittsburgh,4: 6-13 drinks per week,65.5,88,162.55,115.6428571,24.78947632,1:PAST,145.72,0: No,1: Yes,0: No,0: No,64.1,6.75,91.4,0,0,1: Yes,1: Yes,91.4,64.1,4:FALL,sufficiency
+PI5037,1:WHITE,Pittsburgh,3: 3-5 drinks per week,58,83,162.55,296.2857143,21.95098666,0:NO,182.42,0: No,1: Yes,0: No,0: No,84.3,3.64,40.3,0,0,1: Yes,1: Yes,40.3,84.3,3:SUMMER,sufficiency
+PI5048,1:WHITE,Pittsburgh,0:None drinker,66.3,85,155.25,87.42857143,27.50744864,0:NO,118.21,0: No,1: Yes,0: No,0: No,76.1,3.45,37.4,0,0,1: Yes,1: Yes,37.4,76.1,2:SPRING,sufficiency
+PI5072,1:WHITE,Pittsburgh,0:None drinker,68,84,170.85,58.57142857,23.29587066,1:PAST,158.05,0: No,0: No,0: No,0: No,30.5,2.02,36.2,0,0,1: Yes,1: Yes,36.2,30.5,3:SUMMER,sufficiency
+PI5073,1:WHITE,Pittsburgh,0:None drinker,93.1,90,168.6,77.07142857,32.75175227,0:NO,97.77,0: No,1: Yes,0: No,0: No,12,1.38,10.7,48.8,23.3999939,0: No,0: No,59.5,35.4,2:SPRING,deficiency
+PI5092,1:WHITE,Pittsburgh,1: Less than one drink per week,68.7,88,160.6,183.5,26.63579448,1:PAST,107.88,0: No,1: Yes,0: No,0: No,58.7,3.73,47.4,0,0,1: Yes,1: Yes,47.4,58.7,2:SPRING,sufficiency
+PI5093,1:WHITE,Pittsburgh,1: Less than one drink per week,105,85,182.1,114.5714286,31.66426471,2:CURRENT,272.05,0: No,1: Yes,0: No,1: Yes,43.6,4.22,49.5,0,0,1: Yes,1: Yes,49.5,43.6,3:SUMMER,sufficiency
+PI5097,1:WHITE,Pittsburgh,0:None drinker,80.6,79,172,58.57142857,27.24445646,0:NO,157.51,1: Yes,1: Yes,0: No,0: No,10.7,1.22,15.4,27.6,0,1: Yes,0: No,43,10.7,3:SUMMER,deficiency
+PI5100,1:WHITE,Pittsburgh,0:None drinker,55.2,82,177.1,116,17.59956588,1:PAST,39.5,0: No,1: Yes,0: No,0: No,46.5,3.34,37.2,0.9,0,1: Yes,0: No,38.1,46.5,2:SPRING,sufficiency
+PI5102,1:WHITE,Pittsburgh,4: 6-13 drinks per week,79.1,81,177.25,313.9285714,25.17700092,1:PAST,51.05,0: No,1: Yes,0: No,0: No,137.4,10.02,62.4,1.4,0,1: Yes,0: No,63.8,137.4,2:SPRING,sufficiency
+PI5103,1:WHITE,Pittsburgh,0:None drinker,79.5,84,170.55,78.57142857,27.33151347,1:PAST,305.84,0: No,0: No,0: No,0: No,45.4,2.63,32.5,0,0,1: Yes,1: Yes,32.5,45.4,2:SPRING,sufficiency
+PI5109,1:WHITE,Pittsburgh,1: Less than one drink per week,79.3,89,173.9,86.78571429,26.22249573,1:PAST,537.73,0: No,1: Yes,1: Yes,0: No,40.9,1.04,23.3,0,0,1: Yes,1: Yes,23.3,40.9,3:SUMMER,sufficiency
+PI5111,1:WHITE,Pittsburgh,3: 3-5 drinks per week,71.4,91,162,94.57142857,27.20621856,0:NO,17.42,0: No,1: Yes,0: No,0: No,55.5,1.57,28.6,1.9,0,1: Yes,0: No,30.5,55.5,2:SPRING,sufficiency
+PI5148,1:WHITE,Pittsburgh,3: 3-5 drinks per week,76.4,92,170.55,50,26.26575634,1:PAST,64.29,1: Yes,1: Yes,0: No,0: No,65.7,4.94,56.4,0,0,1: Yes,1: Yes,56.4,65.7,3:SUMMER,sufficiency
+PI5160,1:WHITE,Pittsburgh,3: 3-5 drinks per week,88.1,91,157.05,157.4285714,35.71906047,1:PAST,127.68,0: No,0: No,0: No,0: No,47,1.92,26.1,0.8,0,1: Yes,0: No,26.9,47,2:SPRING,sufficiency
+PI5164,1:WHITE,Pittsburgh,0:None drinker,98.4,87,175.3,121,32.02073277,M:Not Applicable,289.99,0: No,0: No,0: No,0: No,51.1,1.36,27.7,0,0,1: Yes,1: Yes,27.7,51.1,2:SPRING,sufficiency
+PI5173,1:WHITE,Pittsburgh,0:None drinker,69.1,90,154.75,93.57142857,28.8547112,1:PAST,382.93,0: No,1: Yes,0: No,0: No,45.3,1.9,28.7,0.8,0,1: Yes,0: No,29.5,45.3,2:SPRING,sufficiency
+PI5180,1:WHITE,Pittsburgh,2: 1-2drinks per week,81.4,85,175.9,145.7142857,26.30829639,1:PAST,91.17,1: Yes,1: Yes,0: No,0: No,78.5,2.62,28,1.5,0,1: Yes,0: No,29.5,78.5,2:SPRING,sufficiency
+PI5187,1:WHITE,Pittsburgh,0:None drinker,75.4,83,166.6,221.7142857,27.16572824,1:PAST,121.25,0: No,0: No,0: No,0: No,56.3,2.5,33,0,0,1: Yes,1: Yes,33,56.3,2:SPRING,sufficiency
+PI5197,1:WHITE,Pittsburgh,0:None drinker,75.8,90,168.45,359.1428571,26.71327746,M:Not Applicable,138.37,0: No,1: Yes,0: No,0: No,63.3,4.03,45.3,0,0,1: Yes,1: Yes,45.3,63.3,4:FALL,sufficiency
+PI5206,1:WHITE,Pittsburgh,5: 14 or more drinks per week,113,86,183.4,27.14285714,33.59539725,1:PAST,59.98,0: No,0: No,0: No,0: No,48.8,1.27,24.2,2.9,0,1: Yes,0: No,27.1,48.8,4:FALL,sufficiency
+PI5216,1:WHITE,Pittsburgh,4: 6-13 drinks per week,71,88,175,144.1428571,23.18367347,0:NO,122.07,0: No,1: Yes,0: No,0: No,65,3.56,40.4,0,0,1: Yes,1: Yes,40.4,65,3:SUMMER,sufficiency
+PI5219,1:WHITE,Pittsburgh,0:None drinker,91.3,81,180.25,160.4285714,28.10090008,1:PAST,85.83,0: No,0: No,0: No,0: No,61.8,1.8,24.4,0,0,1: Yes,1: Yes,24.4,61.8,3:SUMMER,sufficiency
+PI5239,1:WHITE,Pittsburgh,0:None drinker,75.5,87,164.1,96,28.03688689,1:PAST,14.54,0: No,1: Yes,0: No,0: No,23.2,3.35,30.5,0,0,1: Yes,1: Yes,30.5,23.2,3:SUMMER,sufficiency
+PI5245,1:WHITE,Pittsburgh,0:None drinker,77.6,82,164.95,222.4285714,28.52049649,1:PAST,103.84,0: No,1: Yes,0: No,0: No,32,2.1,51.4,0,0,1: Yes,1: Yes,51.4,32,3:SUMMER,sufficiency
+PI5263,1:WHITE,Pittsburgh,0:None drinker,72.7,89,162.85,131.7142857,27.41314638,1:PAST,67.4,0: No,0: No,0: No,0: No,32.2,1.7,23.1,0.8,0,1: Yes,0: No,23.9,32.2,3:SUMMER,sufficiency
+PI5264,1:WHITE,Pittsburgh,1: Less than one drink per week,92.2,83,170.55,94.57142857,31.69767977,1:PAST,90.81,0: No,0: No,0: No,0: No,31.5,2.56,33.2,0,0,1: Yes,1: Yes,33.2,31.5,4:FALL,sufficiency
+PI5279,1:WHITE,Pittsburgh,1: Less than one drink per week,68.1,83,165.5,88.14285714,24.86286178,1:PAST,147.92,0: No,1: Yes,0: No,0: No,50.5,2.15,31.2,0,0,1: Yes,1: Yes,31.2,50.5,3:SUMMER,sufficiency
+PI5288,1:WHITE,Pittsburgh,5: 14 or more drinks per week,80.6,83,167.75,207.7857143,28.64243816,0:NO,498.07,0: No,1: Yes,0: No,0: No,109.7,9.32,69.2,0.9,0,1: Yes,0: No,70.1,109.7,4:FALL,sufficiency
+PI5293,1:WHITE,Pittsburgh,0:None drinker,77.3,81,170.4,314.1785714,26.62197756,1:PAST,112.4,1: Yes,1: Yes,0: No,0: No,65.3,1.75,32,0,0,1: Yes,1: Yes,32,65.3,4:FALL,sufficiency
+PI5308,1:WHITE,Pittsburgh,0:None drinker,86,83,175.2,64.92857143,28.01755593,M:Not Applicable,362.63,0: No,1: Yes,0: No,0: No,29.7,2.89,34.2,0,0,1: Yes,1: Yes,34.2,29.7,3:SUMMER,sufficiency
+PI5340,1:WHITE,Pittsburgh,0:None drinker,80.5,90,163.35,33.57142857,30.16876991,M:Not Applicable,426.54,0: No,1: Yes,0: No,0: No,72,4.4,43.2,0,0,1: Yes,1: Yes,43.2,72,4:FALL,sufficiency
+PI5343,1:WHITE,Pittsburgh,0:None drinker,79.6,80,162.35,216,30.20010701,1:PAST,44.85,0: No,1: Yes,0: No,0: No,72.7,3.43,36.3,0,0,1: Yes,1: Yes,36.3,72.7,3:SUMMER,sufficiency
+PI5352,1:WHITE,Pittsburgh,0:None drinker,68.7,94,169.15,116,24.01113739,0:NO,360.46,0: No,0: No,0: No,0: No,43.7,1.96,30.1,0,0,1: Yes,1: Yes,30.1,43.7,4:FALL,sufficiency
+PI5359,1:WHITE,Pittsburgh,3: 3-5 drinks per week,58.2,81,167.4,196.7142857,20.76883219,1:PAST,134.44,0: No,1: Yes,0: No,0: No,46.6,4.24,36.2,0,0,1: Yes,1: Yes,36.2,46.6,3:SUMMER,sufficiency
+PI5374,1:WHITE,Pittsburgh,2: 1-2drinks per week,73.8,86,171.3,161.7142857,25.15021117,0:NO,102.71,0: No,0: No,0: No,0: No,55.3,1.39,34.5,0,0,1: Yes,1: Yes,34.5,55.3,3:SUMMER,sufficiency
+PI5392,1:WHITE,Pittsburgh,4: 6-13 drinks per week,81,86,177.5,163.8571429,25.70918469,1:PAST,215.45,1: Yes,1: Yes,0: No,0: No,76.3,2.85,24.5,0,0,1: Yes,1: Yes,24.5,76.3,3:SUMMER,sufficiency
+PI5406,1:WHITE,Pittsburgh,.,90,80,168.65,84.21428571,31.6424293,1:PAST,11,0: No,0: No,0: No,0: No,29.6,0.97,15.9,0.7,0,1: Yes,0: No,16.6,29.6,3:SUMMER,deficiency
+PI5411,1:WHITE,Pittsburgh,1: Less than one drink per week,92.8,81,171.3,122.9285714,31.62519779,1:PAST,83.24,0: No,0: No,0: No,0: No,42.2,1.73,21.2,0,0,1: Yes,1: Yes,21.2,42.2,4:FALL,sufficiency
+PI5415,1:WHITE,Pittsburgh,2: 1-2drinks per week,74,80,167.95,124.9642857,26.23443427,0:NO,45.91,0: No,1: Yes,0: No,1: Yes,95.5,4.33,35.6,0,0,1: Yes,1: Yes,35.6,95.5,2:SPRING,sufficiency
+PI5440,1:WHITE,Pittsburgh,0:None drinker,72.9,89,166.45,27.14285714,26.31236769,0:NO,16.39,0: No,0: No,0: No,0: No,47.4,1.62,20.6,0,0,1: Yes,1: Yes,20.6,47.4,3:SUMMER,sufficiency
+PI5451,1:WHITE,Pittsburgh,3: 3-5 drinks per week,81.4,82,159.15,144.5,32.13742817,0:NO,64.33,0: No,1: Yes,0: No,0: No,54.8,3.68,49,0,0,1: Yes,1: Yes,49,54.8,3:SUMMER,sufficiency
+PI5452,1:WHITE,Pittsburgh,1: Less than one drink per week,83,84,166.05,114.5714286,30.10234525,0:NO,165.63,0: No,1: Yes,1: Yes,0: No,36.3,1.21,28.8,5.7,0,1: Yes,0: No,34.5,36.3,3:SUMMER,sufficiency
+PI5457,2:AFRICAN AMERICAN,Pittsburgh,0:None drinker,66.1,90,159.45,151.8214286,25.99874667,1:PAST,64.52,0: No,1: Yes,1: Yes,0: No,17.8,0.4,8.5,23.8,26.69999695,0: No,0: No,32.3,44.5,3:SUMMER,deficiency
+PI5472,1:WHITE,Pittsburgh,0:None drinker,96.2,81,173,104.2142857,32.14273781,M:Not Applicable,524.56,0: No,1: Yes,0: No,0: No,63.4,4.31,42.2,0,0,1: Yes,1: Yes,42.2,63.4,2:SPRING,sufficiency
+PI5491,1:WHITE,Pittsburgh,0:None drinker,77.6,83,176.25,63.21428571,24.98063478,M:Not Applicable,216.64,1: Yes,0: No,0: No,0: No,23.8,1.5,29.3,0,0,1: Yes,1: Yes,29.3,23.8,4:FALL,sufficiency
+PO6836,1:WHITE,Portland,0:None drinker,81.4,83,171.5,126,27.67554335,1:PAST,129.48,1: Yes,0: No,0: No,0: No,44.9,1.88,28,0.9,0,1: Yes,0: No,28.9,44.9,1:WINTER,sufficiency
+PO6846,1:WHITE,Portland,4: 6-13 drinks per week,89.3,84,174.65,156.6428571,29.27617125,1:PAST,96.04,0: No,1: Yes,0: No,0: No,28.2,3.72,29.1,0,0,1: Yes,1: Yes,29.1,28.2,2:SPRING,sufficiency
+PO6848,1:WHITE,Portland,4: 6-13 drinks per week,67.9,82,172.2,58.57142857,22.89831261,0:NO,32.66,0: No,0: No,0: No,0: No,50.3,1.69,27.7,0,0,1: Yes,1: Yes,27.7,50.3,2:SPRING,sufficiency
+PO6894,1:WHITE,Portland,1: Less than one drink per week,52.3,90,162.55,77.14285714,19.79373453,1:PAST,88.57,0: No,1: Yes,0: No,0: No,33.6,2.99,29.6,0,0,1: Yes,1: Yes,29.6,33.6,2:SPRING,sufficiency
+PO6916,1:WHITE,Portland,4: 6-13 drinks per week,75.3,89,173.8,106.7142857,24.92845896,1:PAST,94.86,0: No,1: Yes,0: No,0: No,74.9,3.21,42.6,0,0,1: Yes,1: Yes,42.6,74.9,1:WINTER,sufficiency
+PO6920,1:WHITE,Portland,1: Less than one drink per week,87.4,90,172.3,210,29.44020825,0:NO,38.55,0: No,1: Yes,0: No,0: No,53.3,2.99,27.1,0,0,1: Yes,1: Yes,27.1,53.3,2:SPRING,sufficiency
+PO6926,1:WHITE,Portland,1: Less than one drink per week,61.8,91,169.8,50,21.43448747,M:Not Applicable,121.25,1: Yes,1: Yes,0: No,0: No,54.3,4.56,36.3,0,0,1: Yes,1: Yes,36.3,54.3,1:WINTER,sufficiency
+PO6943,1:WHITE,Portland,1: Less than one drink per week,89.3,80,168.5,143.1428571,31.45224489,1:PAST,60.57,0: No,1: Yes,0: No,0: No,43.3,3.5,36.9,0,0,1: Yes,1: Yes,36.9,43.3,1:WINTER,sufficiency
+PO6944,1:WHITE,Portland,4: 6-13 drinks per week,68.1,90,171.95,53.82142857,23.03258866,1:PAST,179.76,0: No,1: Yes,0: No,0: No,66.7,1.37,34.2,0,0,1: Yes,1: Yes,34.2,66.7,1:WINTER,sufficiency
+PO6950,1:WHITE,Portland,5: 14 or more drinks per week,68.2,93,169.85,9.857142857,23.64031572,0:NO,40.38,0: No,1: Yes,0: No,0: No,47.9,2.61,23.8,0,0,1: Yes,1: Yes,23.8,47.9,3:SUMMER,sufficiency
+PO6953,1:WHITE,Portland,3: 3-5 drinks per week,82.8,91,173.9,109.9642857,27.37985682,0:NO,112.96,0: No,1: Yes,0: No,0: No,44.3,2.57,30.1,0,0,1: Yes,1: Yes,30.1,44.3,2:SPRING,sufficiency
+PO6961,1:WHITE,Portland,3: 3-5 drinks per week,71.5,84,173.45,150.75,23.76607337,0:NO,132.79,0: No,1: Yes,0: No,0: No,62.8,3.59,30.1,4.3,0,1: Yes,0: No,34.4,62.8,2:SPRING,sufficiency
+PO6966,1:WHITE,Portland,5: 14 or more drinks per week,86.9,80,183.3,199.6428571,25.86394967,M:Not Applicable,60.6,0: No,0: No,0: No,0: No,43.6,1.72,18.9,0,0,1: Yes,1: Yes,18.9,43.6,2:SPRING,deficiency
+PO6973,1:WHITE,Portland,0:None drinker,93.7,84,179.75,30,29.0002534,0:NO,21.93,0: No,1: Yes,0: No,0: No,58.5,5.19,40.8,0,0,1: Yes,1: Yes,40.8,58.5,2:SPRING,sufficiency
+PO6975,1:WHITE,Portland,4: 6-13 drinks per week,107.3,83,171.9,53.92857143,36.31181596,1:PAST,68.56,0: No,0: No,0: No,0: No,33.8,1.53,14.6,0.8,0,1: Yes,0: No,15.4,33.8,2:SPRING,deficiency
+PO6987,1:WHITE,Portland,0:None drinker,99.2,86,179.6,171.7142857,30.75381571,0:NO,291.33,0: No,0: No,0: No,0: No,43.1,2.99,36.5,0,0,1: Yes,1: Yes,36.5,43.1,2:SPRING,sufficiency
+PO6988,1:WHITE,Portland,5: 14 or more drinks per week,85.6,80,174.8,168.5714286,28.01501814,0:NO,162.99,0: No,0: No,0: No,0: No,75.6,2.56,20.5,0,0,1: Yes,1: Yes,20.5,75.6,2:SPRING,sufficiency
+PO6989,1:WHITE,Portland,1: Less than one drink per week,63.6,91,165.65,111,23.17790803,0:NO,162.3,0: No,1: Yes,0: No,0: No,63.2,2.21,28.2,1.1,0,1: Yes,0: No,29.3,63.2,2:SPRING,sufficiency
+PO6994,1:WHITE,Portland,4: 6-13 drinks per week,74.9,94,167.05,127.5,26.84039221,1:PAST,693.18,0: No,0: No,0: No,0: No,56.5,2.31,31.1,0,0,1: Yes,1: Yes,31.1,56.5,2:SPRING,sufficiency
+PO6996,1:WHITE,Portland,4: 6-13 drinks per week,76.9,81,177.55,136.7142857,24.39411049,1:PAST,315.37,0: No,1: Yes,0: No,0: No,43,3.79,38.9,0,0,1: Yes,1: Yes,38.9,43,2:SPRING,sufficiency
+PO6998,1:WHITE,Portland,0:None drinker,72.4,80,167.65,108.5714286,25.75914541,M:Not Applicable,95.96,0: No,1: Yes,0: No,1: Yes,50,2.94,41.4,0,0,1: Yes,1: Yes,41.4,50,2:SPRING,sufficiency
+PO7002,1:WHITE,Portland,0:None drinker,63.3,92,160.75,79.14285714,24.49637077,M:Not Applicable,630.73,1: Yes,1: Yes,0: No,0: No,52.8,3.36,43.1,0.7,0,1: Yes,0: No,43.8,52.8,2:SPRING,sufficiency
+PO7010,1:WHITE,Portland,5: 14 or more drinks per week,84.8,80,169.1,143.7142857,29.65573123,1:PAST,48.04,0: No,0: No,0: No,0: No,67.2,2.61,29.7,0,0,1: Yes,1: Yes,29.7,67.2,2:SPRING,sufficiency
+PO7016,1:WHITE,Portland,4: 6-13 drinks per week,89.6,86,181.1,67.10714286,27.31939699,0:NO,103.37,1: Yes,1: Yes,0: No,0: No,65.2,8.99,72,0,0,1: Yes,1: Yes,72,65.2,2:SPRING,sufficiency
+PO7020,1:WHITE,Portland,1: Less than one drink per week,90.2,81,176.45,89.17857143,28.97098172,1:PAST,174.88,0: No,1: Yes,0: No,0: No,70.8,4.06,34.2,3,0,1: Yes,0: No,37.2,70.8,2:SPRING,sufficiency
+PO7023,1:WHITE,Portland,4: 6-13 drinks per week,96,90,171,131.7142857,32.83061455,0:NO,64.95,0: No,1: Yes,0: No,0: No,49.7,1.99,22,0,0,1: Yes,1: Yes,22,49.7,2:SPRING,sufficiency
+PO7026,1:WHITE,Portland,1: Less than one drink per week,110.2,84,189.85,87.25,30.57457237,1:PAST,122.94,0: No,0: No,0: No,0: No,74.9,1.32,18.7,0,0,1: Yes,1: Yes,18.7,74.9,2:SPRING,deficiency
+PO7027,1:WHITE,Portland,0:None drinker,83.6,84,174.45,156,27.47035867,0:NO,232.68,0: No,1: Yes,0: No,0: No,59.1,3.53,33,0,0,1: Yes,1: Yes,33,59.1,2:SPRING,sufficiency
+PO7029,1:WHITE,Portland,4: 6-13 drinks per week,72.9,88,170.95,115.3214286,24.9453337,0:NO,119.16,0: No,1: Yes,0: No,0: No,64.2,3.31,35.2,0,0,1: Yes,1: Yes,35.2,64.2,2:SPRING,sufficiency
+PO7033,1:WHITE,Portland,2: 1-2drinks per week,70.7,89,175.65,82.14285714,22.91517116,1:PAST,125.81,0: No,1: Yes,0: No,0: No,42,2.54,30.4,0,0,1: Yes,1: Yes,30.4,42,2:SPRING,sufficiency
+PO7035,1:WHITE,Portland,2: 1-2drinks per week,72.7,92,175.2,171.5714286,23.68460833,0:NO,173.12,0: No,1: Yes,0: No,0: No,60.3,4.51,32,0,0,1: Yes,1: Yes,32,60.3,2:SPRING,sufficiency
+PO7036,1:WHITE,Portland,2: 1-2drinks per week,74.2,80,176.6,217.5,23.7915374,0:NO,325.8,0: No,1: Yes,0: No,0: No,61.3,3.25,32,0.9,0,1: Yes,0: No,32.9,61.3,2:SPRING,sufficiency
+PO7052,1:WHITE,Portland,2: 1-2drinks per week,51.8,86,159.8,201.1428571,20.28505594,1:PAST,272.48,0: No,1: Yes,0: No,0: No,79.9,6.55,45.1,0,0,1: Yes,1: Yes,45.1,79.9,2:SPRING,sufficiency
+PO7057,1:WHITE,Portland,4: 6-13 drinks per week,74.4,84,178.15,192.75,23.44235736,0:NO,165.92,0: No,1: Yes,0: No,0: No,31.8,4.19,34.5,0,0,1: Yes,1: Yes,34.5,31.8,2:SPRING,sufficiency
+PO7072,1:WHITE,Portland,5: 14 or more drinks per week,69,90,164.75,62.5,25.42132859,1:PAST,56.65,0: No,1: Yes,0: No,0: No,57,2.57,27.4,1.1,0,1: Yes,0: No,28.5,57,2:SPRING,sufficiency
+PO7080,1:WHITE,Portland,0:None drinker,77.8,84,165.1,134.9285714,28.54206892,0:NO,262.99,0: No,1: Yes,0: No,0: No,52.6,2.9,30,0,0,1: Yes,1: Yes,30,52.6,2:SPRING,sufficiency
+PO7082,1:WHITE,Portland,4: 6-13 drinks per week,86.5,80,174.1,107.4285714,28.53767352,1:PAST,63.96,0: No,1: Yes,0: No,0: No,71.5,7.34,54.2,0,0,1: Yes,1: Yes,54.2,71.5,4:FALL,sufficiency
+PO7090,4:HISPANIC,Portland,2: 1-2drinks per week,61.2,82,164.6,180.7142857,22.58872719,1:PAST,89.3,0: No,1: Yes,0: No,0: No,73.7,2.54,34,0,0,1: Yes,1: Yes,34,73.7,2:SPRING,sufficiency
+PO7112,2:AFRICAN AMERICAN,Portland,3: 3-5 drinks per week,76.1,81,170.15,263.5357143,26.28577281,0:NO,211.46,0: No,1: Yes,0: No,0: No,97.7,6.5,54.6,0,0,1: Yes,1: Yes,54.6,97.7,2:SPRING,sufficiency
+PO7129,2:AFRICAN AMERICAN,Portland,3: 3-5 drinks per week,80.1,84,174.6,196.6428571,26.27507942,1:PAST,52.44,0: No,1: Yes,0: No,0: No,56.2,3.4,26.2,7.9,0,1: Yes,0: No,34.1,56.2,2:SPRING,sufficiency
+PO7130,2:AFRICAN AMERICAN,Portland,2: 1-2drinks per week,54.2,80,174.45,131.7142857,17.80973014,2:CURRENT,75.11,0: No,1: Yes,0: No,0: No,85.6,3.29,29,0,0,1: Yes,1: Yes,29,85.6,3:SUMMER,sufficiency
+PO7132,1:WHITE,Portland,1: Less than one drink per week,119.2,80,176.2,185.25,38.39409607,M:Not Applicable,204.11,0: No,0: No,1: Yes,1: Yes,50.5,1.43,21,0,0,1: Yes,1: Yes,21,50.5,3:SUMMER,sufficiency
+PO7136,2:AFRICAN AMERICAN,Portland,3: 3-5 drinks per week,85.7,81,168.1,225.1428571,30.32811338,1:PAST,215,0: No,1: Yes,0: No,0: No,61.4,3.68,36.9,0,0,1: Yes,1: Yes,36.9,61.4,2:SPRING,sufficiency
+PO7138,1:WHITE,Portland,1: Less than one drink per week,92.5,80,160.9,83.5,35.72972261,0:NO,394.56,0: No,1: Yes,0: No,0: No,61.6,2.47,27.5,0,0,1: Yes,1: Yes,27.5,61.6,2:SPRING,sufficiency
+PO7140,1:WHITE,Portland,4: 6-13 drinks per week,95.3,81,184.45,137.6428571,28.01144942,0:NO,123.99,0: No,0: No,0: No,0: No,45.8,3.29,25.2,0,0,1: Yes,1: Yes,25.2,45.8,2:SPRING,sufficiency
+PO7141,1:WHITE,Portland,4: 6-13 drinks per week,92.1,79,182.85,176.7142857,27.54670771,1:PAST,264.55,0: No,1: Yes,0: No,0: No,47.9,2.67,24.2,0,0,1: Yes,1: Yes,24.2,47.9,2:SPRING,sufficiency
+PO7146,1:WHITE,Portland,0:None drinker,79.2,80,190.55,70,21.81259197,1:PAST,134.66,0: No,1: Yes,0: No,0: No,73.8,4.5,51.2,0,0,1: Yes,1: Yes,51.2,73.8,2:SPRING,sufficiency
+PO7147,2:AFRICAN AMERICAN,Portland,0:None drinker,73.1,84,169.6,77.07142857,25.41357022,0:NO,182.46,0: No,1: Yes,0: No,0: No,67.2,2.79,33.6,1.4,0,1: Yes,0: No,35,67.2,2:SPRING,sufficiency
+PO7150,1:WHITE,Portland,0:None drinker,80.4,83,178.6,215.1428571,25.20537364,0:NO,330.01,0: No,1: Yes,0: No,0: No,60.3,4.55,45.4,0,0,1: Yes,1: Yes,45.4,60.3,2:SPRING,sufficiency
+PO7151,2:AFRICAN AMERICAN,Portland,4: 6-13 drinks per week,65.6,84,171.65,95.71428571,22.26466802,M:Not Applicable,69.41,0: No,0: No,0: No,0: No,36.5,0.33,7.8,0,0,1: Yes,1: Yes,7.8,36.5,2:SPRING,deficiency
+PO7152,1:WHITE,Portland,3: 3-5 drinks per week,88.8,79,177,183.7857143,28.34434549,0:NO,38.97,0: No,1: Yes,0: No,0: No,60.2,4.53,42.5,0,0,1: Yes,1: Yes,42.5,60.2,2:SPRING,sufficiency
+PO7156,1:WHITE,Portland,4: 6-13 drinks per week,91.6,89,175.2,54.21428571,29.84195492,1:PAST,127.19,0: No,1: Yes,0: No,0: No,31.1,3.11,31.4,0,0,1: Yes,1: Yes,31.4,31.1,3:SUMMER,sufficiency
+PO7157,1:WHITE,Portland,1: Less than one drink per week,81,88,180.8,45,24.77925053,1:PAST,67.09,0: No,1: Yes,0: No,0: No,35.5,1.31,32.3,0,0,1: Yes,1: Yes,32.3,35.5,2:SPRING,sufficiency
+PO7174,1:WHITE,Portland,1: Less than one drink per week,98.8,79,181.75,196,29.90942786,1:PAST,204.18,0: No,1: Yes,0: No,0: No,48.6,3.93,45.2,0,0,1: Yes,1: Yes,45.2,48.6,2:SPRING,sufficiency
+PO7175,1:WHITE,Portland,0:None drinker,76.2,79,180.05,221.7142857,23.50545812,0:NO,337.98,0: No,0: No,0: No,0: No,70,2.75,29.5,0,0,1: Yes,1: Yes,29.5,70,2:SPRING,sufficiency
+PO7178,3:ASIAN,Portland,0:None drinker,53.1,83,157.5,211.1785714,21.40589569,1:PAST,71.76,0: No,1: Yes,0: No,0: No,57.6,2.61,39.3,0,0,1: Yes,1: Yes,39.3,57.6,2:SPRING,sufficiency
+PO7179,1:WHITE,Portland,0:None drinker,71.7,84,178.9,125.2142857,22.40260258,0:NO,272.31,0: No,1: Yes,0: No,0: No,43.4,3.46,33.4,0,0,1: Yes,1: Yes,33.4,43.4,3:SUMMER,sufficiency
+PO7182,2:AFRICAN AMERICAN,Portland,2: 1-2drinks per week,84.7,82,171.4,181.75,28.83113736,1:PAST,272.45,0: No,1: Yes,0: No,0: No,117,6.35,47.4,1.4,0,1: Yes,0: No,48.8,117,2:SPRING,sufficiency
+PO7188,1:WHITE,Portland,4: 6-13 drinks per week,88,83,175.5,125.9285714,28.57119666,1:PAST,250.26,0: No,0: No,0: No,0: No,63.6,3.33,42.5,0,0,1: Yes,1: Yes,42.5,63.6,2:SPRING,sufficiency
+PO7189,1:WHITE,Portland,0:None drinker,80.6,92,165.75,76.42857143,29.33782865,1:PAST,516.23,0: No,0: No,0: No,0: No,43.7,1.31,17.6,0,0,1: Yes,1: Yes,17.6,43.7,2:SPRING,deficiency
+PO7190,1:WHITE,Portland,3: 3-5 drinks per week,82,87,181.05,15,25.01593813,1:PAST,158.47,0: No,1: Yes,0: No,0: No,39.1,1.7,23.6,0,0,1: Yes,1: Yes,23.6,39.1,4:FALL,sufficiency
+PO7193,1:WHITE,Portland,4: 6-13 drinks per week,75.7,89,179.15,106,23.58643232,1:PAST,654.87,0: No,0: No,0: No,0: No,37.5,0.45,18.4,1.6,0,1: Yes,0: No,20,37.5,2:SPRING,deficiency
+PO7199,1:WHITE,Portland,0:None drinker,65.3,86,169.3,47.14285714,22.78238911,1:PAST,143.7,0: No,0: No,0: No,0: No,40.7,2.73,30.6,0,0,1: Yes,1: Yes,30.6,40.7,2:SPRING,sufficiency
+PO7200,1:WHITE,Portland,1: Less than one drink per week,89.9,82,173.35,294.1428571,29.91658381,0:NO,116.11,0: No,1: Yes,0: No,0: No,81,5.2,47.3,0,0,1: Yes,1: Yes,47.3,81,2:SPRING,sufficiency
+PO7209,3:ASIAN,Portland,0:None drinker,70.3,85,155.85,242.2857143,28.94287785,0:NO,161.89,0: No,1: Yes,0: No,0: No,39.9,2.32,33.5,1.1,0,1: Yes,0: No,34.6,39.9,2:SPRING,sufficiency
+PO7213,1:WHITE,Portland,3: 3-5 drinks per week,62.7,82,168.95,194.8214286,21.96600857,2:CURRENT,143.88,0: No,1: Yes,0: No,0: No,74.3,4.26,37.4,0,0,1: Yes,1: Yes,37.4,74.3,3:SUMMER,sufficiency
+PO7216,1:WHITE,Portland,0:None drinker,84.1,81,172.15,164.9285714,28.37801028,1:PAST,195.72,0: No,1: Yes,0: No,0: No,83.5,6.36,46.7,0,0,1: Yes,1: Yes,46.7,83.5,2:SPRING,sufficiency
+PO7226,1:WHITE,Portland,1: Less than one drink per week,81.4,81,171.75,92.10714286,27.59503272,M:Not Applicable,140.09,0: No,0: No,0: No,0: No,35.6,1.02,16,0,0,1: Yes,1: Yes,16,35.6,3:SUMMER,deficiency
+PO7227,1:WHITE,Portland,2: 1-2drinks per week,64.7,82,180.5,100.8928571,19.8586567,1:PAST,221.21,0: No,1: Yes,0: No,0: No,93.2,5.63,51.3,0,0,1: Yes,1: Yes,51.3,93.2,3:SUMMER,sufficiency
+PO7230,1:WHITE,Portland,4: 6-13 drinks per week,86,81,165.6,18.53571429,31.36012509,1:PAST,40.98,0: No,1: Yes,0: No,1: Yes,33.7,2.89,28.4,0,0,1: Yes,1: Yes,28.4,33.7,4:FALL,sufficiency
+PO7250,1:WHITE,Portland,2: 1-2drinks per week,83.2,79,171.45,92.03571429,28.30403466,M:Not Applicable,53.19,0: No,1: Yes,0: No,0: No,61.7,3.73,30.1,0,0,1: Yes,1: Yes,30.1,61.7,3:SUMMER,sufficiency
+PO7261,3:ASIAN,Portland,0:None drinker,75,84,158.1,74.57142857,30.00526893,1:PAST,115.06,0: No,1: Yes,0: No,0: No,72.2,4.33,42,0,0,1: Yes,1: Yes,42,72.2,3:SUMMER,sufficiency
+PO7287,1:WHITE,Portland,1: Less than one drink per week,64.3,80,174.45,114.5714286,21.12851749,0:NO,90.71,0: No,1: Yes,0: No,0: No,40.7,3.08,29.9,0.8,0,1: Yes,0: No,30.7,40.7,3:SUMMER,sufficiency
+PO7307,1:WHITE,Portland,0:None drinker,97.8,81,175.1,158,31.89822834,0:NO,92.32,0: No,1: Yes,0: No,1: Yes,57,3.6,32.6,0,0,1: Yes,1: Yes,32.6,57,3:SUMMER,sufficiency
+PO7310,1:WHITE,Portland,0:None drinker,105.1,88,184.7,139.4285714,30.80838445,1:PAST,131.35,0: No,1: Yes,0: No,0: No,37.6,3.92,47.7,1.2,0,1: Yes,0: No,48.9,37.6,2:SPRING,sufficiency
+PO7313,1:WHITE,Portland,3: 3-5 drinks per week,61.5,86,170.8,171.0357143,21.08139682,1:PAST,144.4,0: No,1: Yes,0: No,0: No,71.3,4.23,27.6,0,0,1: Yes,1: Yes,27.6,71.3,3:SUMMER,sufficiency
+PO7318,1:WHITE,Portland,3: 3-5 drinks per week,71,80,158.4,160.7142857,28.29749515,M:Not Applicable,260.79,0: No,1: Yes,0: No,0: No,58.6,5.15,48.7,0,0,1: Yes,1: Yes,48.7,58.6,3:SUMMER,sufficiency
+PO7327,1:WHITE,Portland,0:None drinker,62.7,82,162.05,106.7142857,23.87643431,0:NO,72.49,0: No,1: Yes,0: No,0: No,65.5,4.83,39.7,0,0,1: Yes,1: Yes,39.7,65.5,3:SUMMER,sufficiency
+PO7335,5:OTHER,Portland,2: 1-2drinks per week,66.1,80,178.35,128.5,20.7804636,0:NO,114.93,0: No,1: Yes,0: No,0: No,99.7,3.19,33.2,0,0,1: Yes,1: Yes,33.2,99.7,3:SUMMER,sufficiency
+PO7343,1:WHITE,Portland,0:None drinker,58.3,86,163.25,85.71428571,21.87571088,0:NO,32.3,0: No,1: Yes,0: No,0: No,74.7,3.04,34.5,0,0,1: Yes,1: Yes,34.5,74.7,3:SUMMER,sufficiency
+PO7345,1:WHITE,Portland,4: 6-13 drinks per week,56,95,161.5,66.57142857,21.47054031,M:Not Applicable,180.24,0: No,1: Yes,0: No,0: No,63.5,4.7,43.9,0,0,1: Yes,1: Yes,43.9,63.5,3:SUMMER,sufficiency
+PO7351,1:WHITE,Portland,3: 3-5 drinks per week,79,93,173.45,46.32142857,26.25901812,0:NO,66.64,0: No,1: Yes,0: No,0: No,84.8,5.64,39.4,0,0,1: Yes,1: Yes,39.4,84.8,3:SUMMER,sufficiency
+PO7355,1:WHITE,Portland,0:None drinker,73,93,172.05,25.07142857,24.6611603,0:NO,102.97,0: No,1: Yes,0: No,0: No,59.2,2.53,45.5,0,0,1: Yes,1: Yes,45.5,59.2,3:SUMMER,sufficiency
+PO7360,1:WHITE,Portland,0:None drinker,88,93,180.1,0,27.13034063,0:NO,298.63,0: No,1: Yes,0: No,0: No,53.9,2.83,34.1,0,0,1: Yes,1: Yes,34.1,53.9,3:SUMMER,sufficiency
+PO7372,1:WHITE,Portland,3: 3-5 drinks per week,88.5,92,172.25,154.9285714,29.82804637,M:Not Applicable,84.46,0: No,0: No,0: No,0: No,46.9,3.07,26.2,0,0,1: Yes,1: Yes,26.2,46.9,3:SUMMER,sufficiency
+PO7373,1:WHITE,Portland,3: 3-5 drinks per week,81.9,90,166.6,126.5714286,29.50760136,0:NO,322.54,0: No,0: No,0: No,0: No,38.7,2.05,25.1,0,0,1: Yes,1: Yes,25.1,38.7,3:SUMMER,sufficiency
+PO7375,1:WHITE,Portland,3: 3-5 drinks per week,74.2,80,163.35,168.7857143,27.80773574,1:PAST,58.09,0: No,1: Yes,0: No,0: No,56,3.18,33.7,0,0,1: Yes,1: Yes,33.7,56,3:SUMMER,sufficiency
+PO7382,1:WHITE,Portland,4: 6-13 drinks per week,100,87,179,39.96428571,31.21001217,0:NO,106.12,0: No,1: Yes,0: No,0: No,33.4,2.04,29.3,0,0,1: Yes,1: Yes,29.3,33.4,3:SUMMER,sufficiency
+PO7386,1:WHITE,Portland,0:None drinker,80.3,86,169.4,126.2142857,27.98264309,1:PAST,223.8,0: No,1: Yes,1: Yes,0: No,61.8,5.33,55.6,0,0,1: Yes,1: Yes,55.6,61.8,3:SUMMER,sufficiency
+PO7389,3:ASIAN,Portland,0:None drinker,55.7,82,173.75,83.57142857,18.45039077,0:NO,137.13,0: No,1: Yes,0: No,0: No,60.5,3.39,36.9,0,0,1: Yes,1: Yes,36.9,60.5,3:SUMMER,sufficiency
+PO7404,1:WHITE,Portland,1: Less than one drink per week,70,90,164.65,149.5714286,25.82108991,M:Not Applicable,114.25,0: No,1: Yes,0: No,0: No,54.6,6.36,42.6,0,0,1: Yes,1: Yes,42.6,54.6,3:SUMMER,sufficiency
+PO7406,1:WHITE,Portland,0:None drinker,82.2,92,168.3,161.7142857,29.02041279,1:PAST,602.11,1: Yes,1: Yes,0: No,0: No,72.5,4.16,59.1,1.4,0,1: Yes,0: No,60.5,72.5,3:SUMMER,sufficiency
+PO7410,1:WHITE,Portland,0:None drinker,65.7,91,164.1,62.14285714,24.39766184,1:PAST,325.18,0: No,0: No,0: No,0: No,65,1.91,30.1,0,0,1: Yes,1: Yes,30.1,65,3:SUMMER,sufficiency
+PO7412,1:WHITE,Portland,4: 6-13 drinks per week,79.3,83,173.55,155.1785714,26.32836871,0:NO,101.61,0: No,1: Yes,0: No,0: No,50.3,2.84,37,1.8,0,1: Yes,0: No,38.8,50.3,3:SUMMER,sufficiency
+PO7413,1:WHITE,Portland,2: 1-2drinks per week,115.8,82,173,2.142857143,38.69157005,0:NO,82.98,0: No,0: No,0: No,0: No,27.8,1.96,26.6,0,0,1: Yes,1: Yes,26.6,27.8,3:SUMMER,sufficiency
+PO7416,1:WHITE,Portland,0:None drinker,99.6,81,178.9,240.8571429,31.11993329,1:PAST,164.83,0: No,1: Yes,0: No,0: No,39.6,2.38,24.9,0,0,1: Yes,1: Yes,24.9,39.6,3:SUMMER,sufficiency
+PO7420,1:WHITE,Portland,2: 1-2drinks per week,74.8,85,177.25,198.1428571,23.80833968,0:NO,54.9,1: Yes,1: Yes,0: No,0: No,57.3,7.76,59.8,0,0,1: Yes,1: Yes,59.8,57.3,4:FALL,sufficiency
+PO7427,1:WHITE,Portland,4: 6-13 drinks per week,87.5,81,167.6,203.6785714,31.15014155,1:PAST,212.27,0: No,1: Yes,0: No,0: No,58.2,3.84,40.9,0,0,1: Yes,1: Yes,40.9,58.2,3:SUMMER,sufficiency
+PO7432,1:WHITE,Portland,2: 1-2drinks per week,73,85,165.35,34.64285714,26.70019675,0:NO,164.25,0: No,1: Yes,0: No,0: No,53.3,3.57,30.3,0,0,1: Yes,1: Yes,30.3,53.3,3:SUMMER,sufficiency
+PO7442,1:WHITE,Portland,0:None drinker,77.7,89,177.65,8.571428571,24.62014436,0:NO,76.85,1: Yes,1: Yes,0: No,0: No,45.6,3.7,34.6,0,0,1: Yes,1: Yes,34.6,45.6,3:SUMMER,sufficiency
+PO7448,1:WHITE,Portland,2: 1-2drinks per week,71.7,80,169.9,183.1428571,24.83890222,1:PAST,198.13,0: No,1: Yes,0: No,0: No,40.9,1.89,23.4,0,0,1: Yes,1: Yes,23.4,40.9,4:FALL,sufficiency
+PO7456,1:WHITE,Portland,4: 6-13 drinks per week,81.2,85,174.9,150.6428571,26.54461375,0:NO,233.4,0: No,1: Yes,0: No,0: No,53.4,2.08,29.3,0,0,1: Yes,1: Yes,29.3,53.4,3:SUMMER,sufficiency
+PO7463,1:WHITE,Portland,3: 3-5 drinks per week,64.6,88,161.25,286.75,24.84466078,1:PAST,96.19,0: No,1: Yes,0: No,0: No,51.1,3.96,41.5,0,0,1: Yes,1: Yes,41.5,51.1,3:SUMMER,sufficiency
+PO7465,1:WHITE,Portland,3: 3-5 drinks per week,69.3,80,171.4,205.2142857,23.58911238,1:PAST,161.19,0: No,0: No,0: No,0: No,108.9,4.84,40,0,0,1: Yes,1: Yes,40,108.9,3:SUMMER,sufficiency
+PO7473,1:WHITE,Portland,1: Less than one drink per week,68.2,84,175.95,60,22.02956047,0:NO,133.56,0: No,1: Yes,0: No,0: No,68.7,2.62,33.4,0,0,1: Yes,1: Yes,33.4,68.7,3:SUMMER,sufficiency
+PO7476,1:WHITE,Portland,2: 1-2drinks per week,94.1,80,167.25,120,33.64010716,0:NO,90.32,0: No,1: Yes,0: No,1: Yes,67.2,3.37,40.2,0,0,1: Yes,1: Yes,40.2,67.2,3:SUMMER,sufficiency
+PO7482,1:WHITE,Portland,0:None drinker,75.5,91,169.65,72.85714286,26.23247234,0:NO,45.51,0: No,1: Yes,0: No,0: No,47.3,0.97,15.9,0.9,0,1: Yes,0: No,16.8,47.3,3:SUMMER,deficiency
+PO7486,1:WHITE,Portland,2: 1-2drinks per week,84.1,83,169.8,128.0714286,29.16893844,1:PAST,119.4,0: No,1: Yes,0: No,0: No,90.2,6.54,37.2,0,0,1: Yes,1: Yes,37.2,90.2,4:FALL,sufficiency
+PO7488,1:WHITE,Portland,0:None drinker,81.9,84,171.95,36.78571429,27.69998548,1:PAST,94.4,0: No,1: Yes,0: No,0: No,36.3,3.74,43.7,1,0,1: Yes,0: No,44.7,36.3,3:SUMMER,sufficiency
+PO7490,1:WHITE,Portland,3: 3-5 drinks per week,79.7,82,177.35,137.4642857,25.33937716,1:PAST,125.87,0: No,1: Yes,0: No,0: No,62.8,4.52,46.2,0,0,1: Yes,1: Yes,46.2,62.8,4:FALL,sufficiency
+PO7493,1:WHITE,Portland,0:None drinker,98.2,79,186.1,177.2142857,28.35428769,0:NO,165.44,0: No,1: Yes,0: No,0: No,72.7,6.41,69.5,0,0,1: Yes,1: Yes,69.5,72.7,3:SUMMER,sufficiency
+PO7494,1:WHITE,Portland,4: 6-13 drinks per week,72.5,91,163.95,9.642857143,26.97212505,M:Not Applicable,333.25,0: No,1: Yes,0: No,0: No,80.6,7.95,55.6,0,0,1: Yes,1: Yes,55.6,80.6,3:SUMMER,sufficiency
+PO7499,1:WHITE,Portland,5: 14 or more drinks per week,86.6,78,181.45,37.5,26.30291896,0:NO,47.42,0: No,0: No,0: No,0: No,57,1.55,12.5,0,0,1: Yes,1: Yes,12.5,57,4:FALL,deficiency
+PO7500,1:WHITE,Portland,0:None drinker,99.8,84,178.35,18.21428571,31.37504186,1:PAST,418.66,0: No,1: Yes,0: No,0: No,49.6,3.44,42.4,0,0,1: Yes,1: Yes,42.4,49.6,3:SUMMER,sufficiency
+PO7501,1:WHITE,Portland,4: 6-13 drinks per week,74.6,79,170.25,198.3928571,25.73739491,1:PAST,86.08,0: No,1: Yes,0: No,0: No,66.9,6.43,49.9,0,0,1: Yes,1: Yes,49.9,66.9,4:FALL,sufficiency
+PO7503,1:WHITE,Portland,5: 14 or more drinks per week,88.2,78,171.55,9.642857143,29.97002742,M:Not Applicable,284.06,0: No,1: Yes,0: No,0: No,123.3,5.26,49.5,0,0,1: Yes,1: Yes,49.5,123.3,3:SUMMER,sufficiency
+PO7509,1:WHITE,Portland,3: 3-5 drinks per week,82.7,78,183.75,55.75,24.49349808,M:Not Applicable,120.28,0: No,1: Yes,0: No,0: No,61.2,4.8,38,0,0,1: Yes,1: Yes,38,61.2,3:SUMMER,sufficiency
+PO7510,1:WHITE,Portland,5: 14 or more drinks per week,85.7,88,175.9,88.5,27.69804669,1:PAST,62.12,1: Yes,0: No,0: No,0: No,74.6,5.54,35.4,0,0,1: Yes,1: Yes,35.4,74.6,4:FALL,sufficiency
+PO7514,1:WHITE,Portland,4: 6-13 drinks per week,108,81,190.75,88.82142857,29.68210262,0:NO,122.56,0: No,1: Yes,0: No,0: No,44.1,2.47,34.4,0,0,1: Yes,1: Yes,34.4,44.1,3:SUMMER,sufficiency
+PO7518,1:WHITE,Portland,5: 14 or more drinks per week,75.7,86,175.25,96.42857143,24.64789449,M:Not Applicable,187.35,0: No,1: Yes,0: No,0: No,45.8,3.38,35,0,0,1: Yes,1: Yes,35,45.8,3:SUMMER,sufficiency
+SD8047,1:WHITE,San Diego,2: 1-2drinks per week,93.3,89,175.15,192.9642857,30.41314695,1:PAST,172.97,0: No,0: No,0: No,0: No,52.5,0.87,17.2,2.9,0,1: Yes,0: No,20.1,52.5,2:SPRING,deficiency
+SD8066,1:WHITE,San Diego,2: 1-2drinks per week,73.5,89,177.3,59.64285714,23.38136534,1:PAST,272.83,0: No,0: No,1: Yes,0: No,42,2.49,38.2,0.8,0,1: Yes,0: No,39,42,2:SPRING,sufficiency
+SD8072,1:WHITE,San Diego,4: 6-13 drinks per week,84.3,85,176.35,88.57142857,27.10669983,1:PAST,181.15,0: No,1: Yes,0: No,0: No,53.1,5.61,56.1,1.4,0,1: Yes,0: No,57.5,53.1,2:SPRING,sufficiency
+SD8074,1:WHITE,San Diego,0:None drinker,75.8,82,167.85,231.6785714,26.90459844,0:NO,450.53,0: No,0: No,0: No,0: No,40.8,3.35,39.7,0,0,1: Yes,1: Yes,39.7,40.8,3:SUMMER,sufficiency
+SD8077,1:WHITE,San Diego,0:None drinker,74.1,86,167.15,154.8571429,26.52194964,1:PAST,310.69,0: No,1: Yes,0: No,0: No,56.2,3.2,38.9,0,0,1: Yes,1: Yes,38.9,56.2,4:FALL,sufficiency
+SD8083,1:WHITE,San Diego,0:None drinker,78.4,82,168.5,75.71428571,27.61316909,0:NO,83.02,0: No,1: Yes,0: No,0: No,54.2,5.28,53.3,0,0,1: Yes,1: Yes,53.3,54.2,3:SUMMER,sufficiency
+SD8088,1:WHITE,San Diego,0:None drinker,81,95,171.35,115.6428571,27.58778301,1:PAST,332.95,0: No,1: Yes,1: Yes,0: No,51.8,1.89,40.9,0,0,1: Yes,1: Yes,40.9,51.8,3:SUMMER,sufficiency
+SD8096,1:WHITE,San Diego,4: 6-13 drinks per week,87.2,83,179.9,111,26.94350916,1:PAST,146.42,0: No,1: Yes,0: No,0: No,73.7,6.94,47.1,0,0,1: Yes,1: Yes,47.1,73.7,3:SUMMER,sufficiency
+SD8100,1:WHITE,San Diego,3: 3-5 drinks per week,83.9,82,170.15,226.4285714,28.97997817,1:PAST,142.01,0: No,0: No,0: No,0: No,41.3,4.49,27.5,0,0,1: Yes,1: Yes,27.5,41.3,3:SUMMER,sufficiency
+SD8104,1:WHITE,San Diego,4: 6-13 drinks per week,88,80,182.2,75,26.5085472,0:NO,105.21,1: Yes,1: Yes,1: Yes,0: No,70.2,3,41,0,0,1: Yes,1: Yes,41,70.2,2:SPRING,sufficiency
+SD8112,1:WHITE,San Diego,0:None drinker,65.4,87,174.5,57.10714286,21.47765618,0:NO,135.36,0: No,0: No,0: No,1: Yes,27.9,1.32,29,0,0,1: Yes,1: Yes,29,27.9,2:SPRING,sufficiency
+SD8118,1:WHITE,San Diego,0:None drinker,68,85,183.35,205.8928571,20.22772702,0:NO,169.65,0: No,1: Yes,0: No,1: Yes,82.7,4.54,37.4,0.8,0,1: Yes,0: No,38.2,82.7,2:SPRING,sufficiency
+SD8139,1:WHITE,San Diego,4: 6-13 drinks per week,81.8,89,165.8,138.9285714,29.75666469,1:PAST,251.09,0: No,1: Yes,0: No,0: No,84.1,6.42,54,0,0,1: Yes,1: Yes,54,84.1,2:SPRING,sufficiency
+SD8145,1:WHITE,San Diego,0:None drinker,60.6,80,163.7,161.7142857,22.61388948,1:PAST,371.32,0: No,1: Yes,0: No,0: No,105,7.02,68.5,0,0,1: Yes,1: Yes,68.5,105,4:FALL,sufficiency
+SD8146,1:WHITE,San Diego,0:None drinker,65.8,86,167.6,119.2142857,23.42490644,1:PAST,18.29,0: No,1: Yes,0: No,0: No,85.3,4.43,78.3,0,0,1: Yes,1: Yes,78.3,85.3,4:FALL,sufficiency
+SD8152,5:OTHER,San Diego,2: 1-2drinks per week,92.9,82,174.65,185.7142857,30.45639764,1:PAST,114.13,0: No,1: Yes,0: No,0: No,46.6,2.86,28.2,0,0,1: Yes,1: Yes,28.2,46.6,3:SUMMER,sufficiency
+SD8155,1:WHITE,San Diego,0:None drinker,63.6,84,162.5,50.71428571,24.0852071,0:NO,147.33,0: No,1: Yes,0: No,0: No,73.2,4.19,43.4,2.5,0,1: Yes,0: No,45.9,73.2,3:SUMMER,sufficiency
+SD8166,1:WHITE,San Diego,1: Less than one drink per week,78.9,85,177.5,115.5714286,25.04265027,0:NO,68.02,0: No,1: Yes,0: No,1: Yes,63.7,6.69,57,0,0,1: Yes,1: Yes,57,63.7,3:SUMMER,sufficiency
+SD8171,1:WHITE,San Diego,5: 14 or more drinks per week,86.5,80,175.9,189.5714286,27.95660489,1:PAST,205.73,0: No,1: Yes,0: No,0: No,63.7,4.23,34.3,0,0,1: Yes,1: Yes,34.3,63.7,3:SUMMER,sufficiency
+SD8175,1:WHITE,San Diego,0:None drinker,97.1,81,162.5,180.1428571,36.77159763,0:NO,61.15,0: No,1: Yes,0: No,0: No,62.1,6.23,63.5,0,0,1: Yes,1: Yes,63.5,62.1,2:SPRING,sufficiency
+SD8181,1:WHITE,San Diego,4: 6-13 drinks per week,80.3,86,168.85,25,28.16523735,1:PAST,97.78,0: No,0: No,0: No,0: No,35.5,2.36,34.1,0,0,1: Yes,1: Yes,34.1,35.5,2:SPRING,sufficiency
+SD8197,1:WHITE,San Diego,3: 3-5 drinks per week,74.4,86,179.95,53.46428571,22.97572548,1:PAST,123.84,0: No,1: Yes,0: No,0: No,55.5,3.31,58.9,0,0,1: Yes,1: Yes,58.9,55.5,3:SUMMER,sufficiency
+SD8206,1:WHITE,San Diego,3: 3-5 drinks per week,110.4,83,171.35,30,37.60112647,0:NO,39.7,0: No,1: Yes,0: No,0: No,48.3,1.33,35.3,0.7,0,1: Yes,0: No,36,48.3,3:SUMMER,sufficiency
+SD8209,1:WHITE,San Diego,4: 6-13 drinks per week,76.3,80,171.4,33.57142857,25.97185101,0:NO,329.73,0: No,0: No,0: No,0: No,43.5,3.98,27.2,0,0,1: Yes,1: Yes,27.2,43.5,3:SUMMER,sufficiency
+SD8216,1:WHITE,San Diego,0:None drinker,66,81,174.1,170.8571429,21.77440986,0:NO,70.65,0: No,1: Yes,1: Yes,1: Yes,49.5,3.67,44.4,0,0,1: Yes,1: Yes,44.4,49.5,2:SPRING,sufficiency
+SD8220,1:WHITE,San Diego,4: 6-13 drinks per week,76.2,80,173.7,138.9642857,25.25546299,1:PAST,72.29,0: No,1: Yes,0: No,0: No,156,9.76,77.9,0,0,1: Yes,1: Yes,77.9,156,3:SUMMER,sufficiency
+SD8229,1:WHITE,San Diego,0:None drinker,78.3,80,178.4,229.3214286,24.60209335,0:NO,301.47,1: Yes,1: Yes,0: No,0: No,54,7.21,60.2,0,0,1: Yes,1: Yes,60.2,54,4:FALL,sufficiency
+SD8250,1:WHITE,San Diego,3: 3-5 drinks per week,63.4,84,167.3,98.82142857,22.65152135,0:NO,332.53,0: No,0: No,0: No,0: No,37.8,0.91,17,0,0,1: Yes,1: Yes,17,37.8,4:FALL,deficiency
+SD8256,1:WHITE,San Diego,3: 3-5 drinks per week,87.8,85,172,62,29.67820443,1:PAST,209.49,0: No,0: No,1: Yes,1: Yes,32.8,0.94,14.3,0,0,1: Yes,1: Yes,14.3,32.8,2:SPRING,deficiency
+SD8268,1:WHITE,San Diego,5: 14 or more drinks per week,71,80,166,245.8571429,25.76571346,1:PAST,322.58,0: No,1: Yes,0: No,0: No,98.7,6.96,42.2,0,0,1: Yes,1: Yes,42.2,98.7,4:FALL,sufficiency
+SD8276,1:WHITE,San Diego,3: 3-5 drinks per week,77.3,85,176.45,184.1428571,24.82768168,1:PAST,39.39,0: No,1: Yes,0: No,0: No,43.2,2.29,27.4,0,0,1: Yes,1: Yes,27.4,43.2,3:SUMMER,sufficiency
+SD8284,1:WHITE,San Diego,4: 6-13 drinks per week,81.8,81,173.6,85.42857143,27.14275096,0:NO,230.08,0: No,1: Yes,0: No,0: No,52.2,5.47,32.5,0,0,1: Yes,1: Yes,32.5,52.2,3:SUMMER,sufficiency
+SD8285,1:WHITE,San Diego,3: 3-5 drinks per week,66,87,158.75,179.9285714,26.18885238,0:NO,113.56,0: No,1: Yes,0: No,0: No,94.1,5.85,63,0,0,1: Yes,1: Yes,63,94.1,4:FALL,sufficiency
+SD8291,1:WHITE,San Diego,4: 6-13 drinks per week,70.7,82,173.9,169.2142857,23.37869417,1:PAST,57.41,0: No,1: Yes,0: No,0: No,93.8,6.15,55.5,0,0,1: Yes,1: Yes,55.5,93.8,2:SPRING,sufficiency
+SD8293,1:WHITE,San Diego,4: 6-13 drinks per week,69.6,83,179.5,133.7142857,21.60132215,0:NO,107.02,0: No,1: Yes,0: No,0: No,43.6,4.19,41.8,0.7,0,1: Yes,0: No,42.5,43.6,3:SUMMER,sufficiency
+SD8297,1:WHITE,San Diego,0:None drinker,77.7,81,171.35,140.2857143,26.46383629,0:NO,54.46,0: No,1: Yes,0: No,0: No,79.7,3.76,28.6,0,0,1: Yes,1: Yes,28.6,79.7,4:FALL,sufficiency
+SD8322,1:WHITE,San Diego,3: 3-5 drinks per week,82.5,80,175.7,217.7857143,26.72455151,0:NO,72.13,0: No,1: Yes,0: No,0: No,45.4,5.56,52.1,0,0,1: Yes,1: Yes,52.1,45.4,3:SUMMER,sufficiency
+SD8331,1:WHITE,San Diego,3: 3-5 drinks per week,85.6,85,170.9,70.71428571,29.30823325,1:PAST,210.67,0: No,1: Yes,0: No,0: No,43.6,2.64,30.4,0,0,1: Yes,1: Yes,30.4,43.6,3:SUMMER,sufficiency
+SD8337,1:WHITE,San Diego,4: 6-13 drinks per week,81,83,171.7,195.8214286,27.47542561,M:Not Applicable,112.61,0: No,1: Yes,1: Yes,0: No,47,4.18,34.2,0,0,1: Yes,1: Yes,34.2,47,2:SPRING,sufficiency
+SD8352,3:ASIAN,San Diego,0:None drinker,57.9,81,163,94.57142857,21.79231435,0:NO,113.24,0: No,1: Yes,0: No,0: No,76,4.78,38.7,0,0,1: Yes,1: Yes,38.7,76,2:SPRING,sufficiency
+SD8354,1:WHITE,San Diego,4: 6-13 drinks per week,67.9,87,165.05,146.6785714,24.92520374,1:PAST,104.44,0: No,1: Yes,0: No,0: No,70.8,2.8,28.8,1.5,0,1: Yes,0: No,30.3,70.8,3:SUMMER,sufficiency
+SD8361,1:WHITE,San Diego,5: 14 or more drinks per week,94.1,80,178.35,96.60714286,29.58308055,1:PAST,49.11,0: No,1: Yes,0: No,0: No,91.3,4.74,45.9,0,0,1: Yes,1: Yes,45.9,91.3,3:SUMMER,sufficiency
+SD8368,1:WHITE,San Diego,0:None drinker,80.7,80,179.2,108.1428571,25.13029137,0:NO,128.02,0: No,1: Yes,0: No,0: No,78.5,9.78,73.4,0,0,1: Yes,1: Yes,73.4,78.5,4:FALL,sufficiency
+SD8372,1:WHITE,San Diego,4: 6-13 drinks per week,78.2,79,178.55,231.2142857,24.5294067,1:PAST,170.82,0: No,1: Yes,0: No,0: No,57.9,3.11,31.6,0,0,1: Yes,1: Yes,31.6,57.9,4:FALL,sufficiency
+SD8388,1:WHITE,San Diego,2: 1-2drinks per week,73.8,82,171.25,197.5,25.16489957,1:PAST,211.49,1: Yes,1: Yes,0: No,0: No,55.4,4.25,39.1,0,0,1: Yes,1: Yes,39.1,55.4,3:SUMMER,sufficiency
+SD8398,3:ASIAN,San Diego,0:None drinker,59.9,83,172.5,233.3928571,20.13022474,0:NO,207,0: No,0: No,0: No,0: No,74.9,4.23,41.7,1.4,0,1: Yes,0: No,43.1,74.9,4:FALL,sufficiency
+SD8423,1:WHITE,San Diego,0:None drinker,87.5,93,175.4,196.7142857,28.44126278,0:NO,167.97,0: No,1: Yes,0: No,0: No,52.4,1.99,26.1,0,0,1: Yes,1: Yes,26.1,52.4,2:SPRING,sufficiency
+SD8427,1:WHITE,San Diego,1: Less than one drink per week,82,86,172.85,101.0714286,27.44574883,1:PAST,84.34,0: No,1: Yes,1: Yes,0: No,40.2,3.22,34.7,1.1,0,1: Yes,0: No,35.8,40.2,4:FALL,sufficiency
+SD8458,1:WHITE,San Diego,4: 6-13 drinks per week,68,82,165,82.82142857,24.97704316,1:PAST,188.76,0: No,1: Yes,0: No,0: No,55.5,3.38,32.9,0,0,1: Yes,1: Yes,32.9,55.5,2:SPRING,sufficiency
+SD8462,1:WHITE,San Diego,4: 6-13 drinks per week,93,91,170.6,60,31.95397528,1:PAST,30.55,0: No,1: Yes,0: No,0: No,53.6,4.08,32.2,0,0,1: Yes,1: Yes,32.2,53.6,2:SPRING,sufficiency
+SD8476,1:WHITE,San Diego,1: Less than one drink per week,76.5,84,174.9,3.214285714,25.00816443,0:NO,253.64,0: No,1: Yes,0: No,0: No,59.6,5.31,43.9,0,0,1: Yes,1: Yes,43.9,59.6,3:SUMMER,sufficiency
+SD8486,2:AFRICAN AMERICAN,San Diego,2: 1-2drinks per week,97.4,81,194.65,96.07142857,25.70692561,0:NO,92.54,0: No,1: Yes,0: No,0: No,19.3,0.89,25.8,1.6,0,1: Yes,0: No,27.4,19.3,3:SUMMER,sufficiency
+SD8495,1:WHITE,San Diego,4: 6-13 drinks per week,80.5,81,171.15,145.3214286,27.48160375,0:NO,226.39,1: Yes,1: Yes,0: No,0: No,52.5,4.78,53.8,0.8,0,1: Yes,0: No,54.6,52.5,4:FALL,sufficiency
+SD8496,3:ASIAN,San Diego,2: 1-2drinks per week,70.1,81,163.6,129.5357143,26.19096012,0:NO,87.83,0: No,1: Yes,0: No,0: No,63.8,3.65,34.3,0,0,1: Yes,1: Yes,34.3,63.8,2:SPRING,sufficiency
+SD8505,4:HISPANIC,San Diego,3: 3-5 drinks per week,68.2,79,167.6,88.57142857,24.27931033,1:PAST,12.37,0: No,1: Yes,0: No,0: No,76,3.7,35.8,0,0,1: Yes,1: Yes,35.8,76,4:FALL,sufficiency
+SD8519,1:WHITE,San Diego,2: 1-2drinks per week,66.9,87,169.05,270.0357143,23.40969566,1:PAST,154.94,0: No,0: No,0: No,0: No,71.8,3.8,30.9,0.7,0,1: Yes,0: No,31.6,71.8,2:SPRING,sufficiency
+SD8530,1:WHITE,San Diego,0:None drinker,78.8,80,169.5,131,27.42753718,1:PAST,90.83,1: Yes,1: Yes,1: Yes,0: No,49.3,3.53,39.3,0,0,1: Yes,1: Yes,39.3,49.3,2:SPRING,sufficiency
+SD8537,1:WHITE,San Diego,4: 6-13 drinks per week,79.2,89,166.5,134.7142857,28.56910965,1:PAST,166.77,0: No,1: Yes,0: No,0: No,67.3,4.54,47.4,0,0,1: Yes,1: Yes,47.4,67.3,3:SUMMER,sufficiency
+SD8564,1:WHITE,San Diego,3: 3-5 drinks per week,99.8,86,181.2,2.142857143,30.39584034,1:PAST,117.83,0: No,1: Yes,0: No,0: No,50.5,2.09,23.1,0.8,0,1: Yes,0: No,23.9,50.5,2:SPRING,sufficiency
+SD8567,1:WHITE,San Diego,3: 3-5 drinks per week,63.9,88,160.9,35.07142857,24.68247865,0:NO,212.22,0: No,1: Yes,0: No,1: Yes,62.2,1,29.7,0,0,1: Yes,1: Yes,29.7,62.2,3:SUMMER,sufficiency
+SD8586,1:WHITE,San Diego,0:None drinker,81.6,85,172.7,68.57142857,27.35933163,1:PAST,12.62,0: No,0: No,0: No,0: No,39.9,1.16,25.4,0,0,1: Yes,1: Yes,25.4,39.9,4:FALL,sufficiency
+SD8603,1:WHITE,San Diego,0:None drinker,74.4,83,174.2,64.21428571,24.51752542,1:PAST,159.33,0: No,1: Yes,0: No,0: No,53.1,2.92,32.8,0,0,1: Yes,1: Yes,32.8,53.1,3:SUMMER,sufficiency
+SD8609,1:WHITE,San Diego,0:None drinker,87.7,85,175,38.57142857,28.63673469,0:NO,377.63,0: No,1: Yes,1: Yes,0: No,46.2,2.11,37.2,0,0,1: Yes,1: Yes,37.2,46.2,2:SPRING,sufficiency
+SD8610,1:WHITE,San Diego,0:None drinker,100.1,81,174.85,52.14285714,32.74181906,1:PAST,36.55,0: No,1: Yes,1: Yes,0: No,40.1,2.45,26.4,0,0,1: Yes,1: Yes,26.4,40.1,4:FALL,sufficiency
+SD8612,1:WHITE,San Diego,0:None drinker,82.7,85,170.1,151,28.58228085,0:NO,28.6,0: No,1: Yes,0: No,0: No,30.7,3.1,30.2,0.8,0,1: Yes,0: No,31,30.7,3:SUMMER,sufficiency
+SD8622,1:WHITE,San Diego,0:None drinker,92.8,88,187.25,103.2142857,26.46697599,1:PAST,48.89,0: No,1: Yes,0: No,0: No,41.4,2.34,31.3,0,0,1: Yes,1: Yes,31.3,41.4,3:SUMMER,sufficiency
+SD8628,1:WHITE,San Diego,2: 1-2drinks per week,79.4,86,171.05,169.0357143,27.13778175,0:NO,70.21,0: No,0: No,0: No,0: No,40.4,3.59,32.9,1.4,0,1: Yes,0: No,34.3,40.4,2:SPRING,sufficiency
+SD8629,3:ASIAN,San Diego,0:None drinker,59.3,80,165.4,196.7142857,21.67622663,0:NO,184.9,0: No,1: Yes,0: No,0: No,63,5.71,43,0,0,1: Yes,1: Yes,43,63,3:SUMMER,sufficiency
+SD8630,1:WHITE,San Diego,0:None drinker,74.9,83,167.35,50.71428571,26.7442476,1:PAST,51.63,0: No,1: Yes,0: No,0: No,55.7,3.58,31.9,0,0,1: Yes,1: Yes,31.9,55.7,3:SUMMER,sufficiency
+SD8631,3:ASIAN,San Diego,0:None drinker,64.5,82,166.65,38.57142857,23.2246447,0:NO,252.77,0: No,1: Yes,0: No,0: No,65.2,2.3,24.4,0,0,1: Yes,1: Yes,24.4,65.2,3:SUMMER,sufficiency
+SD8637,1:WHITE,San Diego,3: 3-5 drinks per week,107.2,80,172.6,196.9285714,35.98431191,1:PAST,32.82,0: No,0: No,1: Yes,0: No,52.6,2.66,26.5,1.6,0,1: Yes,0: No,28.1,52.6,3:SUMMER,sufficiency
+SD8650,4:HISPANIC,San Diego,0:None drinker,86.5,84,173.85,328.4285714,28.6198081,0:NO,436.62,1: Yes,1: Yes,1: Yes,0: No,47.9,2.2,29.1,2.2,0,1: Yes,0: No,31.3,47.9,2:SPRING,sufficiency
+SD8658,4:HISPANIC,San Diego,0:None drinker,104.5,84,169.05,2.142857143,36.56671444,M:Not Applicable,158.05,1: Yes,0: No,0: No,0: No,37.9,1.04,16.4,10.8,0,1: Yes,0: No,27.2,37.9,4:FALL,deficiency
+SD8664,1:WHITE,San Diego,4: 6-13 drinks per week,113,82,184.35,146,33.25003904,1:PAST,77.07,0: No,0: No,0: No,0: No,27.3,2.08,28.1,0,0,1: Yes,1: Yes,28.1,27.3,3:SUMMER,sufficiency
+SD8671,1:WHITE,San Diego,3: 3-5 drinks per week,80.5,90,178.9,97.17857143,25.15215491,0:NO,70.32,0: No,1: Yes,0: No,0: No,35.6,4.13,57,0,0,1: Yes,1: Yes,57,35.6,2:SPRING,sufficiency
+SD8675,1:WHITE,San Diego,0:None drinker,70.2,81,179.65,100.5714286,21.75117232,0:NO,250.66,0: No,1: Yes,0: No,0: No,50.2,3.23,26.7,1.9,0,1: Yes,0: No,28.6,50.2,3:SUMMER,sufficiency
+SD8691,1:WHITE,San Diego,4: 6-13 drinks per week,105.6,81,181.15,183.2142857,32.18008904,0:NO,124.78,0: No,1: Yes,0: No,0: No,73.1,2.75,44.7,0,0,1: Yes,1: Yes,44.7,73.1,3:SUMMER,sufficiency
+SD8697,1:WHITE,San Diego,2: 1-2drinks per week,67.8,82,172.4,134.2142857,22.81156971,M:Not Applicable,82.34,0: No,1: Yes,0: No,0: No,49.4,3.91,28.9,0,0,1: Yes,1: Yes,28.9,49.4,4:FALL,sufficiency
+SD8706,1:WHITE,San Diego,4: 6-13 drinks per week,92.5,80,174.4,150.0357143,30.41226538,1:PAST,150.97,0: No,1: Yes,0: No,0: No,95.7,6.31,41.9,0,0,1: Yes,1: Yes,41.9,95.7,3:SUMMER,sufficiency
+SD8710,1:WHITE,San Diego,3: 3-5 drinks per week,71.2,80,179.9,281.7857143,21.99974601,0:NO,226.07,0: No,0: No,0: No,0: No,57,5.12,33.3,0,0,1: Yes,1: Yes,33.3,57,4:FALL,sufficiency
+SD8714,1:WHITE,San Diego,5: 14 or more drinks per week,76.4,81,174,158.8571429,25.23450918,1:PAST,186.09,0: No,1: Yes,0: No,0: No,61.7,3.2,30.9,0,0,1: Yes,1: Yes,30.9,61.7,3:SUMMER,sufficiency
+SD8722,1:WHITE,San Diego,0:None drinker,80.4,82,175.6,55.35714286,26.07396184,M:Not Applicable,97.34,0: No,1: Yes,1: Yes,0: No,83.5,3.09,38.7,0,0,1: Yes,1: Yes,38.7,83.5,3:SUMMER,sufficiency
+SD8746,1:WHITE,San Diego,1: Less than one drink per week,86.3,80,184.2,50,25.43498841,1:PAST,103.84,0: No,1: Yes,0: No,0: No,65.1,3.97,45.7,0,0,1: Yes,1: Yes,45.7,65.1,3:SUMMER,sufficiency
+SD8749,1:WHITE,San Diego,3: 3-5 drinks per week,93.9,80,178.4,111.7142857,29.50365984,1:PAST,,0: No,1: Yes,0: No,0: No,28.1,1.75,40,0.7,0,1: Yes,0: No,40.7,28.1,3:SUMMER,sufficiency
+SD8755,1:WHITE,San Diego,0:None drinker,106.9,87,185.6,50.71428571,31.03285709,0:NO,478.26,0: No,1: Yes,0: No,0: No,63.6,3.73,48.9,0,0,1: Yes,1: Yes,48.9,63.6,4:FALL,sufficiency
+SD8757,3:ASIAN,San Diego,4: 6-13 drinks per week,59.4,87,163.5,66.42857143,22.22035182,1:PAST,133.96,0: No,1: Yes,1: Yes,0: No,43.6,2.29,40.7,0,0,1: Yes,1: Yes,40.7,43.6,3:SUMMER,sufficiency
+SD8764,5:OTHER,San Diego,3: 3-5 drinks per week,66.9,82,163.3,236.7142857,25.08728989,1:PAST,118.61,0: No,1: Yes,0: No,0: No,116.5,4.08,27.9,1.6,0,1: Yes,0: No,29.5,116.5,4:FALL,sufficiency
+SD8768,1:WHITE,San Diego,4: 6-13 drinks per week,78.7,84,167.35,108.8571429,28.10109861,0:NO,137.49,0: No,1: Yes,1: Yes,0: No,69.7,3.79,50.9,0,0,1: Yes,1: Yes,50.9,69.7,3:SUMMER,sufficiency
+SD8769,1:WHITE,San Diego,0:None drinker,68.8,85,177.15,235.5,21.92331,0:NO,212.1,0: No,1: Yes,0: No,0: No,54,3.68,37.3,0,0,1: Yes,1: Yes,37.3,54,4:FALL,sufficiency
+SD8779,5:OTHER,San Diego,0:None drinker,85.9,85,177.5,159.4285714,27.26443166,0:NO,148.33,0: No,1: Yes,0: No,0: No,59.9,2.57,30.1,0,0,1: Yes,1: Yes,30.1,59.9,4:FALL,sufficiency
+SD8780,1:WHITE,San Diego,1: Less than one drink per week,112.6,81,189.85,175.8928571,31.24044328,0:NO,160.03,0: No,1: Yes,0: No,0: No,34.3,3.97,54,0,0,1: Yes,1: Yes,54,34.3,4:FALL,sufficiency
+SD8781,4:HISPANIC,San Diego,2: 1-2drinks per week,74.9,80,171.9,204.5357143,25.34720424,0:NO,65,0: No,1: Yes,0: No,0: No,66.5,5.15,44.3,0,0,1: Yes,1: Yes,44.3,66.5,3:SUMMER,sufficiency
+SD8792,3:ASIAN,San Diego,5: 14 or more drinks per week,59.2,81,167.5,196.7142857,21.10046781,0:NO,102.49,0: No,0: No,0: No,0: No,50.6,2.07,26.6,0,0,1: Yes,1: Yes,26.6,50.6,4:FALL,sufficiency
+SD8794,1:WHITE,San Diego,1: Less than one drink per week,83.9,81,173.15,151.7142857,27.98446245,1:PAST,56.97,0: No,1: Yes,0: No,0: No,64.3,3.54,43.9,0,0,1: Yes,1: Yes,43.9,64.3,3:SUMMER,sufficiency
+SD8795,1:WHITE,San Diego,0:None drinker,88.4,91,162.15,53.92857143,33.62159861,0:NO,115.82,0: No,1: Yes,0: No,0: No,61.5,2.8,37.7,0.8,0,1: Yes,0: No,38.5,61.5,2:SPRING,sufficiency
+SD8796,1:WHITE,San Diego,5: 14 or more drinks per week,76.1,81,173.95,161.7142857,25.14987267,0:NO,179.72,0: No,1: Yes,0: No,0: No,67.4,5.31,37.1,0,0,1: Yes,1: Yes,37.1,67.4,4:FALL,sufficiency
+SD8810,1:WHITE,San Diego,4: 6-13 drinks per week,79.1,82,171.5,244.5714286,26.89355626,1:PAST,60.49,0: No,1: Yes,0: No,0: No,59.8,1.35,23.6,5,0,1: Yes,0: No,28.6,59.8,2:SPRING,sufficiency
+SD8819,1:WHITE,San Diego,4: 6-13 drinks per week,72.2,89,160,77.14285714,28.203125,0:NO,94.04,1: Yes,1: Yes,0: No,0: No,55.5,4.65,34.1,0,0,1: Yes,1: Yes,34.1,55.5,4:FALL,sufficiency
+SD8821,1:WHITE,San Diego,2: 1-2drinks per week,83.2,87,171.85,110.4285714,28.17242642,M:Not Applicable,,1: Yes,1: Yes,0: No,0: No,54.9,4.67,41.6,0,0,1: Yes,1: Yes,41.6,54.9,4:FALL,sufficiency
+SD8834,1:WHITE,San Diego,2: 1-2drinks per week,93.9,83,181.65,70.28571429,28.45737179,0:NO,142.68,0: No,0: No,0: No,0: No,83.7,2.06,40.2,0.7,0,1: Yes,0: No,40.9,83.7,3:SUMMER,sufficiency
+SD8837,1:WHITE,San Diego,0:None drinker,68.3,90,166.85,149.5714286,24.53399552,0:NO,125.33,0: No,1: Yes,0: No,0: No,113.3,13.74,74.6,0,0,1: Yes,1: Yes,74.6,113.3,4:FALL,sufficiency
+SD8841,1:WHITE,San Diego,4: 6-13 drinks per week,96.6,84,177.85,161.7142857,30.54002494,0:NO,373.25,0: No,1: Yes,0: No,0: No,38.1,2.12,36.7,0,0,1: Yes,1: Yes,36.7,38.1,3:SUMMER,sufficiency
+SD8844,1:WHITE,San Diego,0:None drinker,101.1,87,175.35,98.5,32.88059101,1:PAST,174.09,0: No,0: No,0: No,0: No,58.1,1.75,26.9,0,0,1: Yes,1: Yes,26.9,58.1,4:FALL,sufficiency
+SD8857,1:WHITE,San Diego,0:None drinker,84.2,86,170.7,33.57142857,28.89648709,1:PAST,309.61,0: No,1: Yes,1: Yes,1: Yes,55.6,3.3,47.5,2.1,0,1: Yes,0: No,49.6,55.6,4:FALL,sufficiency
+SD8863,1:WHITE,San Diego,0:None drinker,60.1,81,157.3,43.82142857,24.28941341,0:NO,346.27,0: No,1: Yes,0: No,0: No,43.6,2.85,44.5,0,0,1: Yes,1: Yes,44.5,43.6,3:SUMMER,sufficiency
+SD8873,1:WHITE,San Diego,1: Less than one drink per week,90.5,84,179.7,140,28.02543905,M:Not Applicable,92.78,0: No,1: Yes,0: No,0: No,94.1,5.36,27.1,0,0,1: Yes,1: Yes,27.1,94.1,4:FALL,sufficiency
+SD8875,1:WHITE,San Diego,3: 3-5 drinks per week,59.1,83,174.7,121.3571429,19.36429414,1:PAST,368.21,0: No,1: Yes,0: No,1: Yes,52.8,5.8,38.6,0,0,1: Yes,1: Yes,38.6,52.8,4:FALL,sufficiency
+SD8876,1:WHITE,San Diego,5: 14 or more drinks per week,68.2,90,166.6,72.5,24.57165339,0:NO,34.61,0: No,1: Yes,0: No,0: No,143.3,6.58,47.7,1.6,0,1: Yes,0: No,49.3,143.3,4:FALL,sufficiency
+SD8894,1:WHITE,San Diego,0:None drinker,70.2,85,175.4,166,22.81801882,0:NO,102.61,0: No,0: No,0: No,0: No,58.6,2.25,24.4,0,0,1: Yes,1: Yes,24.4,58.6,3:SUMMER,sufficiency
+SD8904,3:ASIAN,San Diego,0:None drinker,70.3,94,163.1,89.32142857,26.4269719,1:PAST,161.22,0: No,1: Yes,0: No,0: No,66.4,1.93,28.4,0.7,0,1: Yes,0: No,29.1,66.4,3:SUMMER,sufficiency
+SD8905,1:WHITE,San Diego,0:None drinker,70.5,91,166.25,54.57142857,25.50737747,M:Not Applicable,,0: No,0: No,0: No,0: No,53,2.16,24.9,1.2,0,1: Yes,0: No,26.1,53,4:FALL,sufficiency
+SD8909,1:WHITE,San Diego,3: 3-5 drinks per week,73.5,87,173.9,68.96428571,24.30458305,0:NO,63.13,0: No,0: No,0: No,0: No,50.5,3.47,27,0.9,0,1: Yes,0: No,27.9,50.5,4:FALL,sufficiency
+SD8918,1:WHITE,San Diego,4: 6-13 drinks per week,102,80,177.75,151,32.28352531,0:NO,142.34,0: No,1: Yes,1: Yes,0: No,45.4,2.93,23.6,0,0,1: Yes,1: Yes,23.6,45.4,4:FALL,sufficiency
+SD8927,1:WHITE,San Diego,3: 3-5 drinks per week,81,91,170.75,92.5,27.78200558,1:PAST,95.79,0: No,0: No,0: No,0: No,35.1,2.69,38.4,0,0,1: Yes,1: Yes,38.4,35.1,4:FALL,sufficiency
+SD8934,1:WHITE,San Diego,1: Less than one drink per week,87.9,82,183.45,60,26.11881341,0:NO,121.09,0: No,0: No,0: No,0: No,38.6,1.85,25.8,3.3,0,1: Yes,0: No,29.1,38.6,3:SUMMER,sufficiency
+SD8954,1:WHITE,San Diego,1: Less than one drink per week,75.7,85,175.1,118.8928571,24.69014198,M:Not Applicable,91.17,0: No,1: Yes,0: No,0: No,95,5.61,51.5,0,0,1: Yes,1: Yes,51.5,95,4:FALL,sufficiency
+SD8964,1:WHITE,San Diego,4: 6-13 drinks per week,90.3,83,173.55,93.5,29.98047534,M:Not Applicable,51.79,0: No,1: Yes,0: No,0: No,49.9,6.29,59.7,0,0,1: Yes,1: Yes,59.7,49.9,3:SUMMER,sufficiency
+SD8966,1:WHITE,San Diego,3: 3-5 drinks per week,74.6,82,165.75,91,27.15387118,1:PAST,115.83,0: No,1: Yes,0: No,0: No,90.3,3.02,40.1,0.7,0,1: Yes,0: No,40.8,90.3,4:FALL,sufficiency
+SD8972,1:WHITE,San Diego,0:None drinker,77.3,82,176.05,157.4285714,24.94063089,0:NO,94.48,0: No,1: Yes,0: No,0: No,48.2,4.15,29.3,0,0,1: Yes,1: Yes,29.3,48.2,3:SUMMER,sufficiency
+SD8973,1:WHITE,San Diego,3: 3-5 drinks per week,83.4,82,173.6,115.75,27.67366052,0:NO,166.57,0: No,1: Yes,0: No,0: No,87.4,1.97,24.7,0,0,1: Yes,1: Yes,24.7,87.4,2:SPRING,sufficiency
+SD8985,1:WHITE,San Diego,3: 3-5 drinks per week,84.9,83,171.45,33.67857143,28.88236229,0:NO,68.92,0: No,1: Yes,0: No,0: No,79.8,5.93,49,0,0,1: Yes,1: Yes,49,79.8,4:FALL,sufficiency
+SD8996,1:WHITE,San Diego,0:None drinker,97.1,83,171.2,140.5,33.12925801,0:NO,53.96,0: No,0: No,0: No,0: No,41.8,1.58,20.8,0,0,1: Yes,1: Yes,20.8,41.8,4:FALL,sufficiency
+SD8999,5:OTHER,San Diego,4: 6-13 drinks per week,77.5,83,172.6,246.4285714,26.01477774,1:PAST,50.62,0: No,0: No,0: No,0: No,55.1,3.91,36.2,0,0,1: Yes,1: Yes,36.2,55.1,4:FALL,sufficiency
+SD9001,3:ASIAN,San Diego,0:None drinker,59.8,82,171.4,53.57142857,20.35539568,1:PAST,48.67,0: No,1: Yes,0: No,0: No,42.6,3.16,37.6,0,0,1: Yes,1: Yes,37.6,42.6,2:SPRING,sufficiency
+SD9003,1:WHITE,San Diego,2: 1-2drinks per week,96.8,82,165.6,33.57142857,35.29837336,M:Not Applicable,131.23,0: No,1: Yes,0: No,1: Yes,81.3,3.39,32,0,0,1: Yes,1: Yes,32,81.3,4:FALL,sufficiency
+SD9009,1:WHITE,San Diego,3: 3-5 drinks per week,87,82,162.05,145.6428571,33.12998062,1:PAST,140.24,0: No,1: Yes,0: No,0: No,64.2,4.77,38.4,0,0,1: Yes,1: Yes,38.4,64.2,4:FALL,sufficiency
