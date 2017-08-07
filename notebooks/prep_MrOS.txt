@@ -73,7 +73,7 @@ BI0931	AGTTCCCGAGTA	16S stool samples sequenced for MrOS Vitamin D study	16S rRN
 BI0939	GATTGGTTGCAC	16S stool samples sequenced for MrOS Vitamin D study	16S rRNA v4	GT	Illumina	BI	MrOS	Illumina MiSeq
 BI0940	TGTAATTGTCGC	16S stool samples sequenced for MrOS Vitamin D study	16S rRNA v4	GT	Illumina	BI	MrOS	Illumina MiSeq
 BI0948	TCTACGGAGAGC	16S stool samples sequenced for MrOS Vitamin D study	16S rRNA v4	GT	Illumina	BI	MrOS	Illumina MiSeq
-BIO778	AAGTGCGAAATG	16S stool samples sequenced for MrOS Vitamin D study	16S rRNA v4	GT	Illumina	BI	MrOS	Illumina MiSeq
+BI0778	AAGTGCGAAATG	16S stool samples sequenced for MrOS Vitamin D study	16S rRNA v4	GT	Illumina	BI	MrOS	Illumina MiSeq
 MN1501	AACACAAGGAGT	16S stool samples sequenced for MrOS Vitamin D study	16S rRNA v4	GT	Illumina	MN	MrOS	Illumina MiSeq
 MN1521	ATGAGACTCCAC	16S stool samples sequenced for MrOS Vitamin D study	16S rRNA v4	GT	Illumina	MN	MrOS	Illumina MiSeq
 MN1524	TATAGCCCTGGA	16S stool samples sequenced for MrOS Vitamin D study	16S rRNA v4	GT	Illumina	MN	MrOS	Illumina MiSeq
